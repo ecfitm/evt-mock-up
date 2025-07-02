@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_xinclude.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_xinclude.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <listWit>
+
+ <!--  
+               <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
+               <witness xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
+               <witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
+                  traduzione</witness> -->
+<witness xml:id="pollux" corresp="#Pollux">Pollux</witness> <witness
+                     xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
+                  <witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
+                     traduzione</witness>
+               <witness xml:id="C"/>
+               <witness xml:id="D"/>
+               <witness xml:id="BEG"/>
+               <witness xml:id="DH"/>
+               <witness xml:id="V"/>
+               <witness xml:id="Fac"/>
+
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+
+   <text>
+      <group>
+         <text type="redazione" xml:id="Pollux">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux.xml"
+               xpointer="testoBase"/>
+         </text>
+
+
+         <text type="redazione" xml:id="Pollux_Brevis">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis.xml"
+               xpointer="Brevis_testo"/>
+         </text>
+
+         <text type="traduzione" xml:id="Pollux_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_trad.xml"
+               xpointer="Pollux_traduz"/>
+         </text>
+      <!--    <text xml:id="Pollux_commento">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux/pollux_commento.xml"
+               xpointer="Pollux_comm"/>
+         </text>
+         <text xml:id="Pollux_Brevis_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux/brevis_trad.xml"
+               xpointer="Brevis_traduzione"/>
+         </text> -->
+      </group>
+   </text>
+
+</TEI>
