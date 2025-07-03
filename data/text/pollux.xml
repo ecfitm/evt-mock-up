@@ -34,8 +34,9 @@
             <head>Pollux</head>
 
             <p xml:id="poll_par1" n="1">
-               
-                  
+               <seg xml:id="poll_seg1" n="1">
+                  <term
+                            ref="#journee">.</term>
                      (5) Θεὸς <app type="critico">
                            <lem>καὶ θεοὶ</lem>
                            <rdg wit="#C">καὶ δαίμονες οἱ θεοὶ παρ’ Ὁμήρῳ</rdg>
@@ -73,10 +74,7 @@
                            <lem>τὸ</lem>
                            <rdg wit="#C #D"/>
                         </app> δαιμόνιον.
-
-                      
-           
-               
+               </seg>
             </p>
          </div>
 

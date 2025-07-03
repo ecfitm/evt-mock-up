@@ -11,19 +11,23 @@
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
-         
+         <editionStmt>
+            <!-- <edition>
+               <interpGrp><interp xml:id="pollux" corresp="#Pollux">Pollux</interp> <interp
+                     xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</interp>
+                  <interp xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
+                     traduzione</interp> </interpGrp>
+            </edition> -->
+         </editionStmt>
          <sourceDesc>
             <listWit>
 
- <!--  
+  
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
                <witness xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
                <witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
-                  traduzione</witness> -->
-<witness xml:id="pollux" corresp="#Pollux">Pollux</witness> <witness
-                     xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
-                  <witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
-                     traduzione</witness>
+                  traduzione</witness>
+
                <witness xml:id="C"/>
                <witness xml:id="D"/>
                <witness xml:id="BEG"/>
@@ -39,18 +43,18 @@
 
    <text>
       <group>
-         <text type="redazione" xml:id="Pollux">
+         <text xml:id="Pollux" ana="#pollux">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux.xml"
                xpointer="testoBase"/>
          </text>
 
 
-         <text type="redazione" xml:id="Pollux_Brevis">
+         <text xml:id="Pollux_Brevis" ana="#brevis">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis.xml"
                xpointer="Brevis_testo"/>
          </text>
 
-         <text type="traduzione" xml:id="Pollux_traduzione">
+         <text xml:id="Pollux_traduzione" ana="#pollux_trad">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_trad.xml"
                xpointer="Pollux_traduz"/>
          </text>
