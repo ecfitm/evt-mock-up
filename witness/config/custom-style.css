@@ -1,95 +1,62 @@
 /* ************************* */
+
 /* EVT 2.0 CUSTOM STYLESHEET */
+
 /* ***************************************************************** */
+
 /*                                                                   */
+
 /* Add here your CSS to customize the style of the elements          */
+
 /* If you'll not see any changes, try adding !important to the rule  */
+
 /*                                                                   */
+
 /* For generic TEI elements, use the tagName as class                */
-/* e.g. <del/> => .del{ # your style goes here # }                   */  
+
+/* e.g. <del/> => .del{ # your style goes here # }                   */
+
 /*                                                                   */
+
 /* ***************************************************************** */
-
-/* FONTS CSS */
-
-header, .selector, .mainMenu {
-	font-family: Montserrat, sans-serif !important;
-	/* font-weight: bold; */
+.term {
+	background-color: coral;
 }
 
-header {
-	font-weight: bold;
-}
-
-.w, .p, .critical-apparatus-entry {
-	font-family: "Junicode", Times, serif;
-	font-optical-sizing: auto;
+.figDesc {
+	display: block;
+	border-left: 5px solid #b30000;
+	background-color: #ffe6e6;
+	padding: 5px 5px 5px 8px;
+	margin-bottom: 3%;
 	text-align: justify;
-	text-justify: inter-word;
+	font-size: 95%;
+	font-style: italic;
 }
 
-/* End Font CSS */
-
-/* HEADER & globalMenu */
-
-body>header {
-	background-color: #16184e !important;
-	padding-left: 5%;
+span.analogue span.analogue__text span.quote {
+	font-style: italic;
 }
 
-.apparatuses_tabs_header,
-.box .box-menu, .navBarSliderWrapper {
-	background-color: #27468e !important;
+span.quote sup.iconbis-evt_quote-left,
+span.quote sup.iconbis-evt_quote-right {
+	display: none;
+}
+.criticalEdition .add[data-place = "margin"],
+.criticalEdition .add[data-place = "margin-right"],
+.criticalEdition .add[data-place = "margin-left"] {
+    width: 20% !important;
+    float: right !important;
+    padding-left: 3% !important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 3% !important;
+    text-align: left;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 5px;
+    background-color: beige !important;
+    font-size: 90%;
 }
 
-.globalMenu .buttonSwitch .icon {
-	color: #7b7c73;
-}
-
-.globalMenu .buttonSwitch:hover .icon,
-.buttonSwitch-active .icon {
-	color: white !important;
-}
-
-/* End Header */
-
-/* Borders and critical-apparatus */
-.box .box-body {
-	border: 0 !important;
-}
-
-.namedEntity__details-panels {
-	max-height: 350px !important;
-}
-
-.critical-apparatus-entry {
-	border-left: 1px solid transparent !important;
-    border-right: 1px solid transparent !important;
-	background: #f9fafc !important;
-}
-
-.critical-apparatus-entry_other-content {
-    border-top: 1px solid #c9c9c9 !important;
-}
-
-.reading_exponent {
-	vertical-align: initial !important;
-	background-color: #c2def0 !important;
-}
-
-.reading.selected .reading_exponent {
-    background-color: #445893 !important;
-    color: white !important;
-}
-
-/* End Borders and critical-apparatus */
-
-
-/* Selectors style */
-
-.selector{
-	padding: 0 10px;
-	box-shadow: none;
-}
-
-
+.criticalEdition .app[type = "source"]{
+     background-color: beige !important}

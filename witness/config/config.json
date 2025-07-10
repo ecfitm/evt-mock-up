@@ -10,7 +10,7 @@
     "analoguesUrl"     : "",
     "sourcesTextsUrl" : "",
 
-    "defaultViewMode": "readingTxt",
+    "defaultViewMode": "collation",
 	"availableViewModes": [{
                                 "label"    : "READING_TEXT",
                                 "icon"     : "reading-txt",
