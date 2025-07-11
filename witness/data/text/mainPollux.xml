@@ -1,7 +1,4 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_xinclude.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_xinclude.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -11,22 +8,26 @@
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
-         <editionStmt>
-            <!-- <edition>
-               <interpGrp><interp xml:id="pollux" corresp="#Pollux">Pollux</interp> <interp
-                     xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</interp>
-                  <interp xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
-                     traduzione</interp> </interpGrp>
-            </edition> -->
-         </editionStmt>
+        
          <sourceDesc>
             <listWit>
 
-  
+               <!-- testi-->
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
                <witness xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
+               <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
+
+               <!-- traduzioni-->
                <witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
                   traduzione</witness>
+                  <witness xml:id="brevis_trad" corresp="#Brevis_traduzione">Brevis traduzione</witness>
+               <witness xml:id="excerpta_trad" corresp="#Excerpta_traduzione">Excerpta traduzione</witness>
+               
+               <!-- commenti-->
+                  
+                  <witness xml:id="pollux_comm" corresp="#Pollux_commento">Pollux commento</witness>
+              <witness xml:id="brevis_comm" corresp="#Brevis_commento">Brevis commento</witness>
+                  <witness xml:id="excerpta_comm" corresp="#Excerpta_commento">Excerpta commento</witness>
 <witness xml:id="AV"/>
 <witness xml:id="BDEG"/>
                <witness xml:id="C"/>
@@ -59,29 +60,56 @@
 
    <text>
       <group>
-         <text xml:id="Pollux" ana="#pollux">
+         <!-- testi -->
+         <text xml:id="Pollux">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux.xml"
                xpointer="testoBase"/>
          </text>
 
 
-         <text xml:id="Pollux_Brevis" ana="#brevis">
+         <text xml:id="Pollux_Brevis">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis.xml"
                xpointer="Brevis_testo"/>
          </text>
 
-         <text xml:id="Pollux_traduzione" ana="#pollux_trad">
+         <text xml:id="Excerpta">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta.xml"
+               xpointer="excerpta_testo"/>
+         </text>
+
+
+         <!-- traduzioni-->
+         <text xml:id="Pollux_traduzione">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_trad.xml"
                xpointer="Pollux_traduz"/>
          </text>
-      <!--    <text xml:id="Pollux_commento">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux/pollux_commento.xml"
+
+         <text xml:id="Brevis_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis_trad.xml"
+               xpointer="Brevis_trad"/>
+         </text>
+
+          <text xml:id="Excerpta_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_trad.xml"
+               xpointer="Excerpta_trad"/>
+         </text>
+
+         <!-- commenti-->
+ <text xml:id="Pollux_commento">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_commento.xml"
                xpointer="Pollux_comm"/>
          </text>
-         <text xml:id="Pollux_Brevis_traduzione">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux/brevis_trad.xml"
-               xpointer="Brevis_traduzione"/>
-         </text> -->
+
+    <text xml:id="Brevis_commento">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis_commento.xml"
+               xpointer="Brevis_comm"/>
+         </text>
+
+          <text xml:id="Excerpta_commento">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_commento.xml"
+               xpointer="Excerpta_comm"/>
+         </text>
+     
       </group>
    </text>
 

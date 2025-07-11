@@ -11,11 +11,11 @@
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
-        
+
          <sourceDesc>
             <listWit>
 
-
+<witness xml:id="AV"/>
                <witness xml:id="C"/>
                <witness xml:id="D"/>
                <witness xml:id="BEG"/>
@@ -33,76 +33,74 @@
          <div type="section" xml:id="pollux_ch5" n="5">
             <head>Pollux</head>
 
-            <p xml:id="poll_par1" n="1">
-               
-                  
-                     (5) Θεὸς <app type="critico">
-                           <lem>καὶ θεοὶ</lem>
-                           <rdg wit="#C">καὶ δαίμονες οἱ θεοὶ παρ’ Ὁμήρῳ</rdg>
-                        </app> ⸂καὶ δαίμονες· οὕτω γὰρ <app type="source">
-                           <lem>
-                              <quote>Ὁμήρῳ <bibl>
-                                    <title>cf. e.g. Hom. Il. 1.222, 5.459, Od. 11.61</title>
-                                 </bibl></quote>
-                           </lem>
-                           <rdg wit="#D">Ὅμηρος</rdg>
-                        </app> δοκεῖ δαίμονας καλεῖν τοὺς θεούς⸃. καὶ <app type="source">
-                           <lem>
-                              <quote>Πλάτων δὲ ‘<app type="critico">
-                                    <lem>τὸν</lem>
-                                    <rdg wit="#D"/>
-                                 </app> τοῦ παντὸς κυβερνήτην’ ‘<app type="critico">
-                                    <lem>μέγιστον</lem>
-                                    <rdg wit="#D"/>
-                                 </app> δαίμονα<bibl>
-                                    <title>Πλάτων – δαίμονα: Plat. Plt. 272e</title>
-                                    <note>τότε δὴ τοῦ παντὸς ὁ μὲν κυβερνήτης [...] πάντες οὖν οἱ
-                                       κατὰ τοὺς τόπους συνάρχοντες τῷ μεγίστῳ δαίμονι θεοί</note>
-                                 </bibl></quote>
-                           </lem>
-                        </app> ’ <app type="critico">
-                           <lem>ὠνόμασεν</lem>
-                           <rdg wit="#Fac">ἐκάλεσεν</rdg>
-                        </app>, <app type="critico">
-                           <lem>ἐπειδὴ</lem>
-                           <rdg wit="#C #BEG">ἐπεὶ δὲ</rdg>
-                           <rdg wit="#DH">ἐπὶ δὲ</rdg>
-                        </app> τῆς αὐτῆς χρείας τὸ <app type="analogue"><lem><ref type="parallelPassage">θεῖον<bibl>
-                                    <title>cf. schol. Hom. Il. 1.222c (D); etiam schol. Aeschin. 3.311a</title>
-                                 </bibl></ref></lem></app> καὶ <app type="critico">
-                           <lem>τὸ</lem>
-                           <rdg wit="#C #D"/>
-                        </app> δαιμόνιον.
-
-                      
-           
-               
-            </p>
+            <p xml:id="poll_par1" n="1"> (5) Θεὸς <app type="critico">
+                  <lem>καὶ θεοὶ</lem>
+                  <rdg wit="#C">καὶ δαίμονες οἱ θεοὶ παρ’ Ὁμήρῳ</rdg>
+               </app> ⸂καὶ δαίμονες· οὕτω γὰρ <app type="source">
+                  <lem>
+                     <quote>Ὁμήρῳ <bibl>
+                           <title>cf. e.g. Hom. Il. 1.222, 5.459, Od. 11.61</title>
+                        </bibl></quote>
+                  </lem>
+                  <rdg wit="#D">Ὅμηρος</rdg>
+               </app> δοκεῖ δαίμονας καλεῖν τοὺς θεούς⸃. καὶ <app type="source">
+                  <lem>
+                     <quote>Πλάτων δὲ ‘<app type="critico">
+                           <lem>τὸν</lem>
+                           <rdg wit="#D"/>
+                        </app> τοῦ παντὸς κυβερνήτην’ ‘<app type="critico">
+                           <lem>μέγιστον</lem>
+                           <rdg wit="#D"/>
+                        </app> δαίμονα<bibl>
+                           <title>Plat. Plt. 272e</title>
+                           <note>τότε δὴ τοῦ παντὸς ὁ μὲν κυβερνήτης [...] πάντες οὖν οἱ κατὰ τοὺς
+                              τόπους συνάρχοντες τῷ μεγίστῳ δαίμονι θεοί</note>
+                        </bibl></quote>
+                  </lem>
+               </app> ’ <app type="critico">
+                  <lem>ὠνόμασεν</lem>
+                  <rdg wit="#Fac">ἐκάλεσεν</rdg>
+               </app>, <app type="critico">
+                  <lem>ἐπειδὴ</lem>
+                  <rdg wit="#C #BEG">ἐπεὶ δὲ</rdg>
+                  <rdg wit="#DH">ἐπὶ δὲ</rdg>
+               </app> τῆς αὐτῆς χρείας τὸ <app type="analogue">
+                  <lem><ref type="parallelPassage">θεῖον<bibl>
+                           <title>cf. schol. Hom. Il. 1.222c (D); etiam schol. Aeschin.
+                              3.311a</title>
+                        </bibl></ref></lem>
+               </app> καὶ <app type="critico">
+                  <lem>τὸ</lem>
+                  <rdg wit="#C #D"/>
+               </app> δαιμόνιον. </p>
          </div>
 
-            <div type="chapter" n="6"><p xml:id="poll_par2" n="2">
-               
-                  
-                     (6)⸂καὶ τὸ μὲν⸃ χωρίον ἐν ᾧ ⸂θεραπεύομεν τοὺς θεοὺς⸃ ἱερὸν καὶ νεώς, ἔνθα
-                        δὲ καθιδρύομεν σηκὸς καὶ τέμενος· οἱ μὲν γὰρ ἀκριβέστεροι σηκὸν τὸν τῶν
-                        ἡρώων λέγουσιν, <app type="source">
-                           <lem>
-                              <quote>οἱ δὲ ποιηταὶ καὶ τὸν τῶν θεῶν<bibl>
-                                    <title>Trag. adesp. fr. 424 Kannicht-Snell</title>
-                                 </bibl></quote>
-                           </lem>
-                        </app><!--
+         <div type="chapter" n="6">
+            <p xml:id="poll_par2" n="2"> (6)⸂καὶ τὸ μὲν⸃ χωρίον ἐν ᾧ ⸂θεραπεύομεν τοὺς θεοὺς⸃ ἱερὸν
+               καὶ νεώς, ἔνθα δὲ καθιδρύομεν σηκὸς καὶ τέμενος· οἱ μὲν γὰρ ἀκριβέστεροι σηκὸν τὸν
+               τῶν ἡρώων λέγουσιν, <app type="source">
+                  <lem>
+                     <quote>οἱ δὲ ποιηταὶ καὶ τὸν τῶν θεῶν<bibl>
+                           <title>Trag. adesp. fr. 424 Kannicht-Snell</title>
+                        </bibl></quote>
+                  </lem>
+               </app><!--
                         qui <app> e <lem> non dovrebbero andare, ma se li tolgo non funziona più il
                         riferimento alla cit -->,
-                        ὡς οἱ τραγῳδοὶ ἁγνὸν εἰς σηκὸν θεοῦ. τὸ δὲ πρὸ αὐτοῦ πρόδομος,
-
-               
-            </p></div>
-          <div type="chapter" n="7">  <p xml:id="poll_p7">(7) καὶ τὸ κατόπιν ὀπισθόδομος, ⸂καὶ ἡ εἴσοδος⸃ προπύλαια. αὐτὰ δὲ ἃ
-               θεραπεύομεν ἀγάλματα, ξόανα, ἕδη θεῶν, εἰκάσματα θεῶν, εἰκόνες, μιμήματα, τυπώματα,
-               εἴδη, ἰδέαι. βρέτας δὲ ἢ δείκηλον οὐκ ἔγωγε προσίεμαι ⌠ὅτι ποιητικά.⌡ G ἐφ’ ὧν δὲ
-               θύομεν ἢ πῦρ ⸂ἀνακαίομεν⸃ βωμός, θυμιατήριον, ἑστία· ἔνιοι γὰρ οὕτως ὠνομάκασιν. οὕτω
-               δ’ ἂν κυριώτατα καλοῖτο</p>
+               ὡς οἱ τραγῳδοὶ ἁγνὸν εἰς σηκὸν θεοῦ. τὸ δὲ πρὸ αὐτοῦ πρόδομος, </p>
+         </div>
+         <div type="chapter" n="7">
+            <p xml:id="poll_p7">(7) καὶ τὸ κατόπιν ὀπισθόδομος, ⸂καὶ ἡ εἴσοδος⸃ προπύλαια. αὐτὰ δὲ ἃ
+               θεραπεύομεν ἀγάλματα, <app type="source">
+                  <lem><quote>ξόανα<bibl><title>cf. e.g. S. fr. 238 Radt; E. Tr. 525; X. An. 5.3.12;
+                              Philoch. FGrHist/BNJ 328 F 188</title></bibl></quote></lem>
+               </app>, <app type="source">
+                  <lem><quote>ἕδη θεῶν<bibl><title>cf. A. Pers. 404; S. El. 1374; Isoc. 4.155; Din.
+                              35.3 Conomis; D.H. 1.67.1</title></bibl></quote></lem>
+               </app>, εἰκάσματα θεῶν, εἰκόνες, μιμήματα, τυπώματα, εἴδη, ἰδέαι. βρέτας δὲ ἢ
+               δείκηλον οὐκ ἔγωγε προσίεμαι ⌠ὅτι ποιητικά.⌡ G ἐφ’ ὧν δὲ θύομεν ἢ πῦρ ⸂ἀνακαίομεν⸃
+               βωμός, θυμιατήριον, ἑστία· ἔνιοι γὰρ οὕτως ὠνομάκασιν. οὕτω δ’ ἂν κυριώτατα
+               καλοῖτο</p>
             <p xml:id="poll_p8">(8) ἡ ἐν πρυτανείῳ, ἐφ’ ἧς τὸ πῦρ τὸ ἄσβεστον ⸂ἀνάπτεται⸃. ἐσχάρα
                ⸂δ’ ἰδικῶς⸃ δοκεῖ μὲν ὧδε ὀνομάζεσθαι ἐφ’ ἧς τοῖς ἥρωσιν ἀποθύομεν· ἔνιοι δὲ τῶν
                ποιητῶν καὶ τὸν τῶν θεῶν βωμὸν οὕτω κεκλήκασιν. εἴη δ’ ἂν ὁ μὲν εἴσω περιρραντηρίων

@@ -17,8 +17,8 @@
       </fileDesc>
    </teiHeader>
    <text>
-      <body xml:id="Brevis_traduzione">
-         <div>
+      <body xml:id="Brevis_trad">
+         <div type="section" n="5">
             <head>Pollux Brevis traduzione</head>
             <p corresp="#brevis_p5">(5) On gods. God and gods and daemons, [who are] gods in Homer. And Plato too called
                ‘the helmsman of the universe’ the ‘greatest daemon’, since the ‘divine’ and the

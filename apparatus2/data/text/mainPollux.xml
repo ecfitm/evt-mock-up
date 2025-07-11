@@ -24,7 +24,8 @@
                      xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
                   <witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
                      traduzione</witness>
-               <witness xml:id="C"/>
+               <witness xml:id="AV"/>
+                     <witness xml:id="C"/>
                <witness xml:id="D"/>
                <witness xml:id="BEG"/>
                <witness xml:id="DH"/>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="Excerpta_comm">
+         <div>
+            <head>Excerpta commento</head>
+            <p>´ ] The biblical text seems to be the source for at least some terms of the excerpt
+               concerning the names used to define pagan cult objects. In the usual list, some quite
+               unfavorable words appear. Indeed, the pair προσοχθίσματα (‘offences’) and βδελύγματα
+               (‘abominations’) recalls LXX De. 7, 25‒6, and, shortly after, ἔργα χειρῶν (‘works of
+               hands’) undoubtedly echoes LXX Ps. 113; in both of these passages, pagan idols are
+               presented in an extremely negative light, something that an attentive reader would
+               surely not have failed to notice. The excerpt concludes with a suggestion on how to
+               refer to the great number of pagan gods: δῆμον and πολυαρχίαν θεῶν. The expression is
+               very similar – indeed, it appears almost literally extracted – to what Theodore
+               Metochites (1270‒1332) says in one of his orations for Saint Demetrius the Great
+               Martyr (Or. 4, 12, 124 Kaltsogianni-Polemis) δῆμον θεῶν ἄτακτον καὶ πολυαρχίαν, καὶ
+               θροῦν ἄλογον (“a confused crowd of gods and a polyarchy, and an senseless din”). If
+               the source here is truly the writing of Theodore Metochites, it would be a citation
+               of an author substantially contemporary with, or slightly preceding, the drafting of
+               the two codices that have come down to us. It would follow that y should be dated
+               later than the composition of the Byzantine scholar's oration, the precise date of
+               which is unfortunately not known.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
