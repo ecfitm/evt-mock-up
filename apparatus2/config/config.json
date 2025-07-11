@@ -128,7 +128,7 @@
     ],
 
     "preferredWitness": "",
-    "skipWitnesses": "",
+    "skipWitnesses": "pollux,brevis,pollux_trad",
     "maxWitsLoadTogether": 5,
 
     "witnessesGroups": [],
