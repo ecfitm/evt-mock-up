@@ -90,7 +90,7 @@
 	],
 
     "toolPinAppEntries": true,
-    "toolImageTextLinking": true,
+    "toolImageTextLinking": false,
     "namedEntitiesSelector": true,
 
     "namedEntitiesToHandle": [{
@@ -123,7 +123,7 @@
 	"possibleLemmaFilters": "resp",
 	"notSignificantVariant": "<orig>, <sic>, [type=orthographic]",
 
-	"maxWitsLoadTogether": 5,
+	"maxWitsLoadTogether": 1,
 
     "showDocumentSelector": true,
 
@@ -154,7 +154,7 @@
     "quoteDef"              : "",
     "analogueDef"           : "",
 
-    "showReadingExponent": true,
+    "showReadingExponent": false,
 
     "showInlineCriticalApparatus": false,
     "showInlineSources": false,
