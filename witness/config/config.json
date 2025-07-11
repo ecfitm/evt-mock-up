@@ -113,7 +113,7 @@
 
     "toolHeatMap": false,
     "preferredWitness": "",
-    "skipWitnesses": "",
+    "skipWitnesses": "AV,BDEG,C,B,V,XaDE,E,Gγρ,S,Xd,Xaac,EGac,b,v,x,Xdsl,F,Fac,XaXdac,D,BEG,DH",
 
 	"listDef": "<listWit>, <listChange>",
 	"versionDef": "<witness>, <change>",
