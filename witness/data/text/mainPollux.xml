@@ -12,14 +12,14 @@
          <sourceDesc>
             <listWit>
 
-               <!-- testi-->
+               <!-- testi--><witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
+                  traduzione</witness>
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
                <witness xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
 
                <!-- traduzioni-->
-               <witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
-                  traduzione</witness>
+               
                   <witness xml:id="brevis_trad" corresp="#Brevis_traduzione">Brevis traduzione</witness>
                <witness xml:id="excerpta_trad" corresp="#Excerpta_traduzione">Excerpta traduzione</witness>
                
