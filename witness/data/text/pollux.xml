@@ -33,8 +33,8 @@
          <div type="section" xml:id="pollux_ch5" n="5">
             <head>Pollux</head>
 
-            <p xml:id="poll_par1" n="1">
-               <seg xml:id="poll_seg1" n="1">
+            <p xml:id="poll_par1">
+               <seg xml:id="poll_seg1">
                   <term ref="#journee"/> (5) <app type="critico">
                      <lem>καὶ θεοὶ</lem>
                      <rdg wit="#C">καὶ δαίμονες οἱ θεοὶ παρ’ Ὁμήρῳ</rdg>
