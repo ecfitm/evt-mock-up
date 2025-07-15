@@ -22,49 +22,7 @@
       <body xml:id="testoBase">
          <div type="section" xml:id="pollux_ch5" n="5">
             <head>Pollux</head>
-<p>
-               <seg xml:id="poll_seg1_prova">
-                  <term ref="#journee"/> (5) <app type="critico">
-                     <lem wit="#">καὶ θεοὶ</lem>
-                     <rdg wit="#C">καὶ δαίμονες οἱ θεοὶ παρ’ Ὁμήρῳ</rdg>
-                  </app> ⸂καὶ δαίμονες· οὕτω γὰρ <app type="source">
-                     <lem>
-                        <quote>Ὁμήρῳ <bibl><!-- questo ha anche un passo parallelo e critico ma EVT3 -->
-                              <title>cf. e.g. Hom. Il. 1.222, 5.459, Od. 11.61</title>
-                           </bibl></quote>
-                     </lem>
-                     <rdg wit="#D">Ὅμηρος</rdg>
-                  </app> δοκεῖ δαίμονας καλεῖν τοὺς θεούς⸃. καὶ <app type="source">
-                     <lem>
-                        <quote>Πλάτων δὲ ‘<app type="critico">
-                              <lem>τὸν</lem>
-                              <rdg wit="#D"/>
-                           </app> τοῦ παντὸς κυβερνήτην’ ‘<app type="critico">
-                              <lem>μέγιστον</lem>
-                              <rdg wit="#D"/>
-                           </app> δαίμονα<bibl>
-                              <title>Plat. Plt. 272e</title>
-                              <note>τότε δὴ τοῦ παντὸς ὁ μὲν κυβερνήτης [...] πάντες οὖν οἱ κατὰ
-                                 τοὺς τόπους συνάρχοντες τῷ μεγίστῳ δαίμονι θεοί</note>
-                           </bibl></quote>
-                     </lem>
-                  </app> ’ <app type="critico">
-                     <lem>ὠνόμασεν</lem>
-                     <rdg wit="#Fac">ἐκάλεσεν</rdg>
-                  </app>, <app type="critico">
-                     <lem>ἐπειδὴ</lem>
-                     <rdg wit="#C #BEG">ἐπεὶ δὲ</rdg>
-                     <rdg wit="#DH">ἐπὶ δὲ</rdg>
-                  </app> τῆς αὐτῆς χρείας τὸ <app type="analogue">
-                     <lem><ref type="parallelPassage">θεῖον<bibl>
-                              <title>cf. schol. Hom. Il. 1.222c (D); etiam schol. Aeschin.
-                                 3.311a</title>
-                           </bibl></ref></lem>
-                  </app> καὶ <app type="critico">
-                     <lem>τὸ</lem>
-                     <rdg wit="#C #D"/>
-                  </app> δαιμόνιον. </seg>
-            </p>
+
             <p xml:id="poll_par1" n="1">
                <seg xml:id="poll_seg1">
                   <term ref="#journee"/> (5) Θεὸς καὶ θεοὶ ⸂καὶ δαίμονες· οὕτω γὰρ Ὁμήρῳ δοκεῖ
