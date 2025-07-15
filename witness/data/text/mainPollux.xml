@@ -15,25 +15,25 @@
                <!-- testi--><witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
                   traduzione</witness>
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
-               <witness xml:id="brevis" corresp="#Pollux_Brevis">Pollux brevis</witness>
+               <witness xml:id="brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
 
                <!-- traduzioni-->
                
-                  <witness xml:id="brevis_trad" corresp="#Brevis_traduzione">Brevis traduzione</witness>
+                  <witness xml:id="brevis_trad" corresp="#Brevis_traduzione">Versio Brevis traduzione</witness>
                <witness xml:id="excerpta_trad" corresp="#Excerpta_traduzione">Excerpta traduzione</witness>
                
                <!-- commenti-->
                   
                   <witness xml:id="pollux_comm" corresp="#Pollux_commento">Pollux commento</witness>
-              <witness xml:id="brevis_comm" corresp="#Brevis_commento">Brevis commento</witness>
+              <witness xml:id="brevis_comm" corresp="#Brevis_commento">Versio Brevis commento</witness>
                   <witness xml:id="excerpta_comm" corresp="#Excerpta_commento">Excerpta commento</witness>
 <witness xml:id="AV"/>
 <witness xml:id="BDEG"/>
                <witness xml:id="C"/>
                <witness xml:id="b"/>
                <witness xml:id="B"/>
-               <witness xml:id="XaXdac"/>
+               <witness xml:id="XaXd"/>
                <witness xml:id="D"/>
                <witness xml:id="BEG"/>
                <witness xml:id="DH"/>
@@ -44,12 +44,12 @@
                <witness xml:id="E"/>
                <witness xml:id="S"/>
                <witness xml:id="Xd"/>
-               <witness xml:id="Xaac"/>
-               <witness xml:id="EGac"/>
+               <witness xml:id="Xa"/>
+               <witness xml:id="EG"/>
                <witness xml:id="x"/>
                <witness xml:id="v"/>
                <witness xml:id="Xdsl"/>
-               <witness xml:id="Gγρ"/>
+               <witness xml:id="G"/>
                <witness xml:id="Mc"/>
                
 
