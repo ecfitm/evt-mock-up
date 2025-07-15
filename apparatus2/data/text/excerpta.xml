@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="excerpta_testo">
+         <div type="section" n="5">
+            <head>Excerpta</head>
+
+
+
+            <p> ξη´. ὅσα ἐπὶ ναῶν καὶ χωρίων ἐν οἷς θεραπεύουσι τὸν Θεόν· (6) ⌠ἱερά, ναοί,
+               θυμιαστήρια, ἰλαστήρια, εὐκτήρια, προφητεῖα, μαρτύρια, <app type="source">
+                  <lem><quote>προσευχαί, καθώς φησι Φίλων<bibl><title>cf. Ph. Legat. 132.6, 134.3,
+                              138.3, 148.3</title></bibl></quote></lem>
+               </app>,⌡ σηκοί, τεμένη{ν}⌠<app type="analogue">
+                  <lem><ref type="parallelPassage">οἱονεὶ εἰς τιμὴν τοῦ θεοῦ
+                              ἀποτετμημένα<bibl><title>de veriloquio cf. Ap.Soph. 151.4; schol. D
+                              Hom. Il. 6.194b-c</title></bibl></ref></lem>
+               </app>·⌡ (7–10) ἔνθεοι τόποι καθιερωμένοι, καθωσιωμένοι, θεῷ ἀνειμένοι, ⌠<app
+                  type="source">
+                  <lem><quote>προσευχῶν οἶκοι<bibl><title>cf. Basil. Ep. 243.2 Courtonne; cf. etiam
+                              e.g. Eu.Mt. 21.13</title></bibl></quote></lem>
+               </app>, ἁγιάσματα, εὐαγεῖς,⌡ ἀβέβηλοι, ἄσυλοι, ἄψαυστοι, ἀθέατοι,⌠ἀχωρόβατοι,
+               ἀπάτητοι.⌡ γῆ ἱερὰ καὶ θεῷ ἄνετος. τὰ δὲ περὶ αὐτοὺς ἔνθεοι τόποι, ἕρκη, ἀσφάλειαι,
+               ὅροι, <app type="source">
+                  <lem><quote>προπύλαια, προαύλια, πρόδομοι, ὀπισθόδομοι, εἴσοδοι,
+                              πρόθυρα<bibl><title>cf. Poll. 1.77</title></bibl></quote></lem>
+               </app>. </p>
+            <p> ξθ´. ὅσα Ἕλληνες ἐπὶ ναῶν λέγουσι· (7–8) βωμοί, ἐσχάραι, ἑστίαι, θυμιατήρια· ⌠<app
+                  type="source">
+                  <lem><quote>σπονδεῖα<bibl><title>cf. Poll. 10.65</title></bibl></quote></lem>
+               </app>, περιρραντήρια, καθάρσια, καθαρτήρια· ἅλση, κρῆναι, φιάλαι, κρατῆρες,
+               περιρραντήρια{ι}, Στυγὸς ὕδωρ, ἁγνιστήρια, ἐφ’ ὧν ζωοθυτοῦσι, καὶ σφαγιάζουσι, καὶ
+               λιβανωτὸν ἀνακαίουσι, καὶ τοὺς κεκοιμωμένους περιρραντίζουσι, καὶ δαίμοσι καὶ θεοῖς
+               διὰ τῶν καθαρτῶν εἴτουν τῶν ἱερέων αὐτῶν ἐναγίζουσιν.⌡ </p>
+            <p> ο´. ὅσα Ἑλλήνων σεβάσματα· (7) ἀγάλματα, ξόανα, ἕδη θεῶν, βρέτη, εἰκάσματα, ⌠<app
+                  type="critico">
+                  <lem>ὁμοιώματα</lem>
+                  <rdg wit="#Mc">ὁμοιώτητα</rdg>
+               </app>,⌡ μιμήματα, μορφώματα, τυπώματα, ⌠<app type="source">
+                  <lem><quote>προσοχθίσματα, βδελύγματα<bibl><title>cf. LXX Dt
+                           7.25‒26</title></bibl></quote></lem>
+               </app>, <app type="source">
+                  <lem><quote>χειρῶν<bibl><title>cf. e.g. LXX Ps 113.12, 4Re 19.18, Sap 13.10
+                              4</title></bibl></quote></lem>
+               </app> ἔργα, <app type="source">
+                  <lem><quote>χειροποίητα<bibl><title>cf. Ph. Mos. 2.165; cf. etiam e.g. LXX Bel
+                              6.28, Dan 5.23 6</title></bibl></quote></lem>
+               </app>, χαλκουργήματα, εἴδωλα, χρυσοχώνευτα, ἀνδριάντες, στῆλαι, καθιδρύματα,⌡
+               εἰκόνες, εἴδη, ἰδέαι, ⌠διαγλυφαί, προτομαί, ἰνδάλματα. ἐρεῖς δὲ καὶ <app
+                  type="source">
+                  <lem><quote>παντοπαθεῖς<bibl><title>cf. [Clem.] Hom. 4.15.2; Georgius Cedrenus
+                              1.55.19</title></bibl></quote></lem>
+               </app> Ἑλλήνων θεούς, καὶ <app type="source">
+                  <lem><quote>δῆμον<bibl><title>cf. Theodorus Metochites Orationes 4.12.124,
+                              Laudatio s. Demetrii 10.458</title></bibl></quote></lem>
+               </app>, καὶ <app type="source">
+                  <lem><quote>πολυαρχίαν<bibl><title>cf. [Io.D.] Vita Barlaam et Joasaph 10.85 Volk;
+                              Theodorus Metochites Orationes 4.12.124 Kaltsogianni-Polemis, Laudatio
+                              s. Demetrii 10.458 Laourdas</title></bibl></quote></lem>
+               </app> θεῶν. </p>
+         </div>
+
+      </body>
+   </text>
+</TEI>
