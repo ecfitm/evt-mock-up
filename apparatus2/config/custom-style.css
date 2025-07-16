@@ -60,3 +60,8 @@ span.quote sup.iconbis-evt_quote-right {
 
 .criticalEdition .app[type = "source"]{
      background-color: beige !important}
+
+
+.app_lemma_content evt-witness-ref{
+    display: none !important;
+}
