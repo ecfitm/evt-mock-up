@@ -19,6 +19,45 @@
 /*                                                                   */
 
 /* ***************************************************************** */
+
+
+/* FONT */
+
+@font-face {
+  font-family: 'Bril';
+  src: url('../fonts/Brill-Roman.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bril';
+  src: url('../fonts/Brill-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bril';
+  src: url('../fonts/Brill-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Bril';
+  src: url('../fonts/Brill-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+header, .selector, .mainMenu, .box-body {
+	font-family: 'Bril', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	/* font-weight: bold; */
+}
+
 .term {
 	background-color: coral;
 }
