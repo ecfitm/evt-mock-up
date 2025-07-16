@@ -28,29 +28,7 @@
                   <witness xml:id="pollux_comm" corresp="#Pollux_commento">Pollux commento</witness>
               <witness xml:id="brevis_comm" corresp="#Brevis_commento">Versio Brevis commento</witness>
                   <witness xml:id="excerpta_comm" corresp="#Excerpta_commento">Excerpta commento</witness>
-<witness xml:id="AV"/>
-<witness xml:id="BDEG"/>
-               <witness xml:id="C"/>
-               <witness xml:id="b"/>
-               <witness xml:id="B"/>
-               <witness xml:id="XaXd"/>
-               <witness xml:id="D"/>
-               <witness xml:id="BEG"/>
-               <witness xml:id="DH"/>
-               <witness xml:id="V"/>
-               <witness xml:id="Fac"/>
-               <witness xml:id="F"/>
-               <witness xml:id="XaDE"/>
-               <witness xml:id="E"/>
-               <witness xml:id="S"/>
-               <witness xml:id="Xd"/>
-               <witness xml:id="Xa"/>
-               <witness xml:id="EG"/>
-               <witness xml:id="x"/>
-               <witness xml:id="v"/>
-               <witness xml:id="Xdsl"/>
-               <witness xml:id="G"/>
-               <witness xml:id="Mc"/>
+
                
 
             </listWit>

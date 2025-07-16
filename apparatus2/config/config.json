@@ -3,7 +3,7 @@
     "webSite": "",
     "logoUrl": "",
     
-    "dataUrl": "../witness/data/text/mainPollux.xml",
+    "dataUrl": "data/text/mainPollux.xml",
     "sourcesUrl": "",
     "analoguesUrl": "",
     "sourcesTextsUrl": "",
