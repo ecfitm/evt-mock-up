@@ -12,22 +12,22 @@
          <sourceDesc>
             <listWit>
 
-               <!-- testi--><witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
-                  traduzione</witness>
+               <!-- testi--><witness xml:id="pollux_transl" corresp="#Pollux_traduzione">Pollux
+                  translation</witness>
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
                <witness xml:id="brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
 
                <!-- traduzioni-->
                
-                  <witness xml:id="brevis_trad" corresp="#Brevis_traduzione">Versio Brevis traduzione</witness>
-               <witness xml:id="excerpta_trad" corresp="#Excerpta_traduzione">Excerpta traduzione</witness>
+                  <witness xml:id="versio_brevis_transl" corresp="#Brevis_traduzione">Versio Brevis translation</witness>
+               <witness xml:id="excerpta_transl" corresp="#Excerpta_traduzione">Excerpta translation</witness>
                
                <!-- commenti-->
                   
-                  <witness xml:id="pollux_comm" corresp="#Pollux_commento">Pollux commento</witness>
-              <witness xml:id="brevis_comm" corresp="#Brevis_commento">Versio Brevis commento</witness>
-                  <witness xml:id="excerpta_comm" corresp="#Excerpta_commento">Excerpta commento</witness>
+                  <witness xml:id="pollux_comment" corresp="#Pollux_commento">Pollux comment</witness>
+             
+                  <witness xml:id="excerpta_comment" corresp="#Excerpta_commento">Excerpta comment</witness>
 
                
 
@@ -47,7 +47,7 @@
 
 
          <text xml:id="Pollux_Brevis">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis.xml"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="versio_brevis.xml"
                xpointer="Brevis_testo"/>
          </text>
 
@@ -59,33 +59,30 @@
 
          <!-- traduzioni-->
          <text xml:id="Pollux_traduzione">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_trad.xml"
-               xpointer="Pollux_traduz"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_transl.xml"
+               xpointer="Pollux_transl"/>
          </text>
 
          <text xml:id="Brevis_traduzione">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis_trad.xml"
-               xpointer="Brevis_trad"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="versio_brevis_transl.xml"
+               xpointer="Brevis_transl"/>
          </text>
 
           <text xml:id="Excerpta_traduzione">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_trad.xml"
-               xpointer="Excerpta_trad"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_transl.xml"
+               xpointer="Excerpta_transl"/>
          </text>
 
          <!-- commenti-->
  <text xml:id="Pollux_commento">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_commento.xml"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_comment.xml"
                xpointer="Pollux_comm"/>
          </text>
 
-    <text xml:id="Brevis_commento">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis_commento.xml"
-               xpointer="Brevis_comm"/>
-         </text>
+   
 
           <text xml:id="Excerpta_commento">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_commento.xml"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_comment.xml"
                xpointer="Excerpta_comm"/>
          </text>
      

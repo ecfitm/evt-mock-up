@@ -16,10 +16,10 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text ana="#pollux_trad">
-      <body xml:id="Pollux_traduz">
+   <text>
+      <body xml:id="Pollux_transl">
          <div type="chapter" n="5" xml:id="pollux_trad_ch5">
-            <head>Pollux traduzione</head>
+            <head>Pollux translation</head>
             <p corresp="#poll_par1" xml:id="poll_trad_par1" n="1">(5) God and gods and daemons; for thus Homer seems to call the
                gods daemones. And Plato too called ‘the helmsman of the universe’ the ‘greatest
                daemon’, since the ‘divine’ and the ‘daemonic’ have the same use.</p>

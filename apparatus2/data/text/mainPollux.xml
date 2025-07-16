@@ -12,8 +12,9 @@
          <sourceDesc>
             <listWit>
 
-               <!-- testi--><witness xml:id="pollux_trad" corresp="#Pollux_traduzione">Pollux
-                  traduzione</witness>
+               <!-- testi-->
+             <witness xml:id="pollux_transl" corresp="#Pollux_traduzione">Pollux
+                  translation</witness>
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
                <witness xml:id="brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
@@ -53,14 +54,14 @@
    <text>
       <group>
          <!-- testi -->
-         <text xml:id="Pollux">
+        <text xml:id="Pollux">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux.xml"
                xpointer="testoBase"/>
          </text>
 
 
          <text xml:id="Pollux_Brevis">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="brevis.xml"
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="versio_brevis.xml"
                xpointer="Brevis_testo"/>
          </text>
 
