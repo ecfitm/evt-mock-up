@@ -17,7 +17,7 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text ana="#pollux">
+   <text>
 
       <body xml:id="testoBase">
          <div type="section" xml:id="pollux_ch5" n="5">

@@ -13,10 +13,9 @@
             <listWit>
 
                <!-- testi-->
-             <witness xml:id="pollux_transl" corresp="#Pollux_traduzione">Pollux
-                  translation</witness>
+             
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
-               <witness xml:id="brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
+               <witness xml:id="versio_brevis" corresp="#Versio_Brevis">Versio Brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
 
             
@@ -60,7 +59,7 @@
          </text>
 
 
-         <text xml:id="Pollux_Brevis">
+         <text xml:id="Versio_Brevis">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="versio_brevis.xml"
                xpointer="Brevis_testo"/>
          </text>

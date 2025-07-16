@@ -15,7 +15,7 @@
                <!-- testi--><witness xml:id="pollux_transl" corresp="#Pollux_traduzione">Pollux
                   translation</witness>
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
-               <witness xml:id="brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
+               <witness xml:id="versio_brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
 
                <!-- traduzioni-->
