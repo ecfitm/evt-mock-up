@@ -44,6 +44,7 @@
 
     .buttonSwitch {
       background: #263238;
+      color: white;
       border: none;
       border-radius: 6px;
       padding: 10px;
@@ -55,6 +56,10 @@
 
     .buttonSwitch.active {
       background: #ffc107;
+      color: black;
+    }
+    .buttonSwitch.active .icon-evt {
+      color: black;
     }
 
     .icon-evt {
@@ -84,10 +89,10 @@
     </div>
     <div class="globalMenu">
         <button class="buttonSwitch" onclick="toggleIframe('apparatus')">
-        <span class="icon-evt">&#xe92f;</span>
+        Apparatuses &nbsp;<span class="icon-evt">&#xe92f;</span>
         </button>
         <button class="buttonSwitch active" onclick="toggleIframe('witness')">
-        <span class="icon-evt">&#xe92e;</span>
+        Witnesses &nbsp;<span class="icon-evt">&#xe92e;</span>
         </button>
     </div>
 
