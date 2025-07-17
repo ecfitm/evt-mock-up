@@ -13,7 +13,7 @@
          </publicationStmt>
 
          <sourceDesc>
-           <p></p>
+            <p/>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -23,27 +23,26 @@
          <div type="section" xml:id="pollux_ch5" n="5">
             <head>Pollux</head>
 
-            
+
             <p xml:id="poll_par1">
                <seg xml:id="poll_seg1">
-                  <term ref="#journee"/> (5) <app type="critico">
-                     <lem wit="#">καὶ θεοὶ</lem>
-                     <rdg wit="#C">καὶ δαίμονες οἱ θεοὶ παρ’ Ὁμήρῳ</rdg>
-                  </app> ⸂καὶ δαίμονες· οὕτω γὰρ <app type="source">
-                     <lem>
-                        <quote>Ὁμήρῳ <bibl><!-- questo ha anche un passo parallelo e critico ma EVT3 -->
-                              <title>cf. e.g. Hom. Il. 1.222, 5.459, Od. 11.61</title>
-                           </bibl></quote>
-                     </lem>
-                     <rdg wit="#D">Ὅμηρος</rdg>
-                  </app> δοκεῖ δαίμονας καλεῖν τοὺς θεούς⸃. καὶ <app type="source">
+                  <term ref="#journee"/> (5) Θεὸς καὶ θεοὶ ⸂<app type="critico">
+                     <lem>καὶ δαίμονες· οὕτω γὰρ <app type="source">
+                           <lem>
+                              <quote>Ὁμήρῳ <bibl><!-- questo ha anche un passo parallelo e critico ma EVT3 -->
+                                    <title>cf. e.g. Hom. Il. 1.222, 5.459, Od. 11.61</title>
+                                 </bibl></quote>
+                           </lem>
+                        </app> δοκεῖ δαίμονας καλεῖν τοὺς θεούς</lem>
+                     <rdg>καὶ δαίμονες οἱ θεοὶ παρ’ Ὁμήρῳ C</rdg>
+                  </app>⸃. καὶ <app type="source">
                      <lem>
                         <quote>Πλάτων δὲ ‘<app type="critico">
                               <lem>τὸν</lem>
-                              <rdg wit="#D"/>
+                              <rdg>om. D</rdg>
                            </app> τοῦ παντὸς κυβερνήτην’ ‘<app type="critico">
                               <lem>μέγιστον</lem>
-                              <rdg wit="#D"/>
+                              <rdg>om. D</rdg>
                            </app> δαίμονα<bibl>
                               <title>Plat. Plt. 272e</title>
                               <note>τότε δὴ τοῦ παντὸς ὁ μὲν κυβερνήτης [...] πάντες οὖν οἱ κατὰ
@@ -52,11 +51,11 @@
                      </lem>
                   </app> ’ <app type="critico">
                      <lem>ὠνόμασεν</lem>
-                     <rdg wit="#Fac">ἐκάλεσεν</rdg>
+                     <rdg>ἐκάλεσεν Fᵃᶜ</rdg>
                   </app>, <app type="critico">
                      <lem>ἐπειδὴ</lem>
-                     <rdg wit="#C #BEG">ἐπεὶ δὲ</rdg>
-                     <rdg wit="#DH">ἐπὶ δὲ</rdg>
+                     <rdg>ἐπεὶ δὲ C BEG,&#x2800;</rdg>
+                     <rdg>ἐπὶ δὲ DH</rdg>
                   </app> τῆς αὐτῆς χρείας τὸ <app type="analogue">
                      <lem><ref type="parallelPassage">θεῖον<bibl>
                               <title>cf. schol. Hom. Il. 1.222c (D); etiam schol. Aeschin.
@@ -64,7 +63,7 @@
                            </bibl></ref></lem>
                   </app> καὶ <app type="critico">
                      <lem>τὸ</lem>
-                     <rdg wit="#C #D"/>
+                     <rdg>om. C D</rdg>
                   </app> δαιμόνιον. </seg>
             </p>
          </div>
@@ -72,28 +71,28 @@
          <div type="chapter" n="6">
             <p xml:id="poll_par2" n="2"> (6)⸂<app type="critico">
                   <lem>καὶ τὸ μὲν</lem>
-                  <rdg wit="#AV">τὸ μὲν οὖν</rdg>
+                  <rdg>τὸ μὲν οὖν AV</rdg>
                </app>⸃ χωρίον ἐν ᾧ ⸂<app type="critico">
                   <lem>θεραπεύομεν τοὺς θεοὺς</lem>
-                  <rdg wit="#AV">θεραπεύονται οἱ θεοί </rdg>
+                  <rdg>θεραπεύονται οἱ θεοί AV</rdg>
                </app>⸃ ἱερὸν <app type="critico">
                   <lem>καὶ</lem>
-                  <rdg wit="#BDEG"/>
+                  <rdg>om. b x BDEG</rdg>
                </app> νεώς, ἔνθα δὲ καθιδρύομεν σηκὸς <app type="critico">
                   <lem>καὶ τέμενος</lem>
-                  <rdg wit="#C"/>
+                  <rdg>om. C</rdg>
                </app>· οἱ μὲν γὰρ <app type="critico">
                   <lem>ἀκριβέστεροι</lem>
-                  <rdg wit="#F">ἀκριβέστερον</rdg>
+                  <rdg>ἀκριβέστερον F</rdg>
                </app>
                <app type="analogue">
                   <lem><ref type="parallelPassage"><app type="critico">
                            <lem>σηκὸν</lem>
-                           <rdg wit="#F"/>
+                           <rdg>om. F</rdg>
                         </app>
                         <app type="critico">
                            <lem>τὸν</lem>
-                           <rdg wit="#XaDE"/>
+                           <rdg>om. Xa DE</rdg>
                         </app> τῶν ἡρώων<bibl><title>cf. schol. E. Ph. 1010; Ammon. Diff. 329; Ptol.
                               Vocab. 402.17; Eust. in Od. 1.336.30; hinc Thom.Mag. Ecl.
                               246.6</title><note>schol. E. Ph. 1010: διαφέρει σηκὸς καὶ ἄδυτον. ὁ
@@ -112,16 +111,16 @@
                   <app type="critico">
                   <lem><app type="critico">
                         <lem>ὡς οἱ</lem>
-                        <rdg wit="#E">ὅσοι</rdg>
+                        <rdg>ὅσοι E</rdg>
                      </app> τραγῳδοὶ ἁγνὸν εἰς σηκὸν <app type="critico">
                         <lem>θεοῦ</lem>
-                        <rdg wit="#E">τοῦ θεοῦ</rdg>
+                        <rdg>τοῦ θεοῦ E</rdg>
                      </app></lem>
-                  <rdg wit="#C"/>
+                  <rdg>om. E</rdg>
                </app>. τὸ δὲ πρὸ αὐτοῦ <app type="analogue">
                   <lem><ref type="parallelPassage"><app type="critico">
                            <lem>πρόδομος</lem>
-                           <rdg wit="#S #EGac"/>
+                           <rdg>om. S EG ante correctionem</rdg>
                         </app><bibl><title>cf. Su. π 2367</title></bibl></ref></lem>
                </app>, </p>
          </div>
@@ -130,7 +129,7 @@
          <div type="chapter" n="7">
             <p xml:id="poll_p7">(7) καὶ <app type="critico">
                   <lem>τὸ</lem>
-                  <rdg wit="#Xd"/>
+                  <rdg>om. Xd</rdg>
                </app> κατόπιν <app type="analogue">
                   <lem><ref type="parallelPassage">ὀπισθόδομος<bibl><title>cf. schol. Ar. Pl.
                               1193a-b; schol. Luc. 25.53; cf. etiam Poll.
@@ -138,16 +137,16 @@
                </app>, ⸂<app type="critico">
                   <lem>καὶ <app type="critico">
                         <lem>ἡ</lem>
-                        <rdg wit="#E"/>
+                        <rdg>om. E</rdg>
                      </app> εἴσοδος</lem>
-                  <rdg wit="#b">ὡς καὶ αἱ εἴσοδοι</rdg>
+                  <rdg>ὡς καὶ αἱ εἴσοδοι b</rdg>
                </app>⸃ προπύλαια. αὐτὰ δὲ ἃ θεραπεύομεν ἀγάλματα, <app type="source">
                   <lem><quote>ξόανα<bibl><title>cf. e.g. S. fr. 238 Radt; E. Tr. 525; X. An. 5.3.12;
                               Philoch. FGrHist/BNJ 328 F 188</title></bibl></quote></lem>
                </app>, <app type="source">
                   <lem><quote><app type="critico">
                            <lem>ἕδη</lem>
-                           <rdg wit="#E">εἴδη</rdg>
+                           <rdg>εἴδη E</rdg>
                         </app> θεῶν<bibl><title>cf. A. Pers. 404; S. El. 1374; Isoc. 4.155; Din.
                               35.3 Conomis; D.H. 1.67.1</title></bibl></quote></lem>
                </app>, <app type="source">
@@ -155,13 +154,13 @@
                </app>, εἰκόνες, <app type="source">
                   <lem><quote><app type="critico">
                            <lem>μιμήματα</lem>
-                           <rdg wit="#XaXdac #B">μιμητά</rdg>
+                           <rdg>μιμητά XaXd ante correctionem B</rdg>
                         </app><bibl><title>cf. E. Io. 1429; cf. etiam Thphr. De pietate fr. 13
                               Pötscher; Ph. Legat. 290.5</title></bibl></quote></lem>
                </app>, <app type="analogue">
                   <lem><ref type="parallelPassage"><app type="critico">
                            <lem>τυπώματα</lem>
-                           <rdg wit="#AV"/>
+                           <rdg>om. AV</rdg>
                         </app><bibl><title>cf. schol. rec. Ar. Nu. 995c
                      (anon.)</title></bibl></ref></lem>
                </app>, <app type="source">
@@ -172,78 +171,78 @@
                               Ar. Eq. 31 6</title></bibl></quote></lem>
                </app> δὲ ἢ δείκηλον <app type="critico">
                   <lem>οὐκ</lem>
-                  <rdg wit="#V">ὃ οὐκ</rdg>
+                  <rdg>ὃ οὐκ V</rdg>
                </app> ἔγωγε <app type="critico">
                   <lem>προσίεμαι</lem>
-                  <rdg wit="#C #E">προΐεμαι</rdg>
-               </app> ⌠ὅτι ποιητικά.⌡ G <app type="critico">
+                  <rdg>προΐεμαι C E</rdg>
+               </app> ⌠ὅτι ποιητικά.⌡ ᴳ <app type="critico">
                   <lem>ἐφ</lem>
-                  <rdg wit="#D">ἀφ’</rdg>
+                  <rdg>ἀφ’ D</rdg>
                </app>’ ὧν δὲ θύομεν ἢ πῦρ ⸂<app type="critico">
                   <lem>ἀνακαίομεν</lem>
-                  <rdg wit="#Fac">ἀνάπτομεν</rdg>
+                  <rdg>ἀνάπτομεν F ante correctionem</rdg>
                </app>⸃ βωμός, <app type="source">
                   <lem><quote>θυμιατήριον<bibl><title>cf. e.g. Thuc. 6.46.3; D.
                         22.75</title></bibl></quote></lem>
                </app>, ἑστία· ἔνιοι γὰρ <app type="critico">
                   <lem>οὕτως</lem>
-                  <rdg wit="#E">οὑτωσὶ</rdg>
+                  <rdg>οὑτωσὶ E</rdg>
                </app>
                <app type="critico">
                   <lem>ὠνομάκασιν</lem>
-                  <rdg wit="#Xaac">ὠνομάζωσιν</rdg>
+                  <rdg>ὠνομάζωσιν Xa ante correctionem</rdg>
                </app>. <app type="critico">
                   <lem>οὕτω</lem>
-                  <rdg wit="#AV">τούτων</rdg>
+                  <rdg>τούτων AV</rdg>
                </app> δ’ ἂν κυριώτατα <app type="critico">
                   <lem>καλοῖτο</lem>
-                  <rdg wit="#F">καλεῖτο</rdg>
-                  <rdg wit="#x #v">καλοίης</rdg>
+                  <rdg>καλεῖτο F,&#x2800;</rdg>
+                  <rdg>καλοίης x, v</rdg>
                </app></p>
 
 
             <p xml:id="poll_p8">(8) <app type="critico">
                   <lem>ἡ</lem>
-                  <rdg wit="#x #v">τὴν</rdg>
+                  <rdg>τὴν x, v</rdg>
                </app> ἐν <app type="analogue">
                   <lem><ref type="parallelPassage">πρυτανείῳ<bibl><title>cf. schol. Pi. N. 11.1a,
                               1b</title></bibl></ref></lem>
                </app>, ἐφ’ ἧς <app type="critico">
                   <lem>τὸ πῦρ τὸ ἄσβεστον</lem>
-                  <rdg wit="#E">τὸ ἄσβεστον πῦρ</rdg>
+                  <rdg>τὸ ἄσβεστον πῦρ E</rdg>
                </app> ⸂<app type="critico">
                   <lem>ἀνάπτεται</lem>
-                  <rdg wit="#C">ἀνάπτομεν</rdg>
+                  <rdg>ἀνάπτομεν C</rdg>
                </app>⸃. <app type="analogue">
                   <lem><ref type="parallelPassage">ἐσχάρα ⸂<app type="critico">
                            <lem>δ’ ἰδικῶς</lem>
-                           <rdg wit="#b #C #v"/>
+                           <rdg>om. b C v</rdg>
                         </app>⸃ δοκεῖ <app type="critico">
                            <lem>μὲν</lem>
-                           <rdg wit="#BDEG">δὲ</rdg>
+                           <rdg>δὲ BDEG</rdg>
                         </app>
                         <app type="critico">
                            <lem>ὧδε</lem>
-                           <rdg wit="#C #D"/>
+                           <rdg>om. C D</rdg>
                         </app>
                         <app type="critico">
                            <lem>ὀνομάζεσθαι</lem>
-                           <rdg wit="#b #x #v">ὠνομάσθαι</rdg>
+                           <rdg>ὠνομάσθαι b x v</rdg>
                         </app>
                         <app type="critico">
                            <lem>ἐφ’ ἧς τοῖς</lem>
-                           <rdg wit="#F #Xa #C #BDG">ἐφ’οἷς τοῖς</rdg>
+                           <rdg>ἐφ’οἷς τοῖς F Xa C BDG</rdg>
                         </app> ἥρωσιν<bibl><title>cf. Ammon. Diff. 113; Porph. Antr. 6.19; Eust. in
                               Od. 1.255.37</title></bibl></ref></lem>
                </app> ἀποθύομεν· <app type="analogue">
                   <lem><ref type="parallelPassage">ἔνιοι δὲ <app type="critico">
                            <lem>τῶν</lem>
-                           <rdg wit="#Xa"/>
+                           <rdg>om. Xa</rdg>
                         </app> ποιητῶν καὶ τὸν τῶν θεῶν βωμὸν οὕτω κεκλήκασιν<bibl><title>cf. Ammon.
                               Diff. 113; Eust. in Od. 1.255.37</title></bibl></ref></lem>
                </app>. εἴη δ’ ἂν ὁ μὲν <app type="critico">
                   <lem>εἴσω</lem>
-                  <rdg wit="#Xa">ἔσω</rdg>
+                  <rdg>ἔσω Xa</rdg>
                </app> περιρραντηρίων τόπος ἔνθεος, <app type="critico">
                   <lem>ἱερός, <app type="source">
                         <lem><quote>καθιερωμένος<bibl><title>cf. e.g. Plat. Lg. 914b; D.
@@ -254,10 +253,10 @@
                                  </title></bibl></quote></lem>
                      </app> – <app type="critico">
                         <lem>καίτοι οὐδέπω</lem>
-                        <rdg wit="#Xdsl">καὶ ῶπου</rdg>
-                        <rdg wit="#Gγρ">καὶ τοιῷδέ που</rdg>
+                        <rdg>καὶ ῶπου Xd supra lineam,&#x2800;</rdg>
+                        <rdg>καὶ τοιῷδέ που Gγρ</rdg>
                      </app> ἐντετύχηκα τῷ ὀνόματι</lem>
-                  <rdg wit="#C"/>
+                  <rdg>om. C</rdg>
                </app> –</p>
 
 
@@ -267,20 +266,20 @@
                                     4.97.3</title></bibl></quote></lem>
                      </app>· τὸ γὰρ ἀνίερος ⸂<app type="critico">
                         <lem>ἁρμόττοι ἂν</lem>
-                        <rdg wit="#BDGH">ἥρμοστο τῇ διανοίᾳ</rdg>
+                        <rdg>ἥρμοστο τῇ διανοίᾳ BDGH</rdg>
                      </app>⸃ μᾶλλον ἐπὶ τῶν οὐ καθαρῶν τόπων</lem>
-                  <rdg wit="#C"/>
+                  <rdg>om. C</rdg>
                </app>. εἰ <app type="critico">
                   <lem>μέντοι καί <app type="critico">
                         <lem>τι</lem>
-                        <rdg wit="#Xa">τοι</rdg>
+                        <rdg>τοι</rdg>
                      </app></lem>
-                  <rdg wit="#C">δὲ</rdg>
+                  <rdg>δὲ C</rdg>
                </app> χωρίον <app type="analogue">
                   <lem><ref type="parallelPassage">ἄβατον εἴη τοῦ ἱεροῦ, <app type="critico">
                            <lem>τοῦτο</lem>
-                           <rdg wit="#C"/>
-                           <rdg wit="#Gγρ">τούτου</rdg>
+                           <rdg>om. C,&#x2800;</rdg>
+                           <rdg>τούτου Gγρ</rdg>
                         </app> καὶ <app type="source">
                            <lem><quote>ἄδυτον<bibl><title>cf. e.g. Hdt. 1.159, 5.72; Ar. Eq. 1016;
                                        E. Andr. 1034, 1147, Io. 938, IT
@@ -288,8 +287,8 @@
                         </app><bibl><title>cf. Hsch. α 1220 </title></bibl></ref></lem>
                </app> ⸂<app type="critico">
                   <lem>εἴποις ἂν</lem>
-                  <rdg wit="#b">ἂν εἴη</rdg>
-                  <rdg wit="#C">καλοῖτ’ ἂν</rdg>
+                  <rdg>ἂν εἴη b,&#x2800;</rdg>
+                  <rdg>καλοῖτ’ ἂν C</rdg>
                </app>⸃ καὶ <app type="source">
                   <lem><quote>ἄψαυστον<bibl><title>cf. Thuc. 4.97.3</title></bibl></quote></lem>
                </app> καὶ <app type="source">
@@ -305,16 +304,16 @@
                </app>. οἱ δ’ ἀνειμένοι θεοῖς τόποι ἄλση τε καὶ τεμένη καὶ <app type="analogue">
                   <lem><ref type="parallelPassage">ἕρκη, καὶ <app type="critico">
                            <lem>ὁ</lem>
-                           <rdg wit="#C">ὁ δὲ</rdg>
+                           <rdg>ὁ δὲ C</rdg>
                         </app> περὶ <app type="critico">
                            <lem>αὐτὰ</lem>
-                           <rdg wit="#B">αὐτοὺς</rdg>
+                           <rdg>αὐτοὺς B</rdg>
                         </app> κύκλος περίβολος<bibl><title>cf. schol. Hom. Od. 8.57c; schol. Nic.
                               Ther. 548b; Harp. ε 134, ο 20 (unde Phot. ε 1927; Su. ε 3015); Hsch. ε
                               5935; EM 375.25 </title></bibl></ref></lem>
                </app>. ⸂<app type="critico">
                   <lem>εἰ δὲ καὶ ἄσυλόν τι εἴη, τοῦτο</lem>
-                  <rdg wit="#C #Gγρ">τὸ δὲ ἐν αὐτοῖς ἄσυλον</rdg>
+                  <rdg>τὸ δὲ ἐν αὐτοῖς ἄσυλον C Gγρ</rdg>
                </app>⸃ καὶ <app type="analogue">
                   <lem><ref type="parallelPassage"><app type="source">
                            <lem><quote>κρησφύγετον<bibl><title>cf. Hdt. 5.124, 8.51 etc. sed nusquam
@@ -325,30 +324,28 @@
                </app> ⸂λέγε⸃ καὶ <app type="source">
                   <lem><quote>φύξιμον<bibl><title>cf. e.g. Plut. Rom.
                      9.3</title></bibl></quote></lem>
-               </app>· καὶ <app type="critico"><lem>ἱεροὺς ὅρους, ⸂ἐντὸς ὧν⸃ <app type="critico"><lem>τοῖς</lem><rdg wit="#A"/></app></lem><rdg wit="#C"/></app> ἱκέταις ἀσφάλεια. ἡ δ’ <app type="analogue">
+               </app>· καὶ <app type="critico">
+                  <lem>ἱεροὺς ὅρους, ⸂ἐντὸς ὧν⸃ <app type="critico">
+                        <lem>τοῖς</lem>
+                        <rdg>om. A</rdg>
+                     </app></lem>
+                  <rdg>om. C</rdg>
+               </app> ἱκέταις ἀσφάλεια. ἡ δ’ <app type="analogue">
                   <lem><ref type="parallelPassage">ἄνετος θεοῖς γῆ ἱερὰ<bibl><title>cf. Harp. α 138
                               , unde Σ´´´ (Σb α 1329; Phot. α 1888) </title></bibl></ref></lem>
-               </app> <app type="critico"><lem>καὶ</lem><rdg wit="#C"/></app> <app type="analogue">
+               </app>
+               <app type="critico">
+                  <lem>καὶ</lem>
+                  <rdg>om. C</rdg>
+               </app>
+               <app type="analogue">
                   <lem><ref type="parallelPassage">ὀργάς<bibl><title>cf. Did. in Demosth. (P.Berol.
                               970) col. 13.44; schol. Ar. Ra. 352, Pac. 606a; schol. D. 3.101 ;
                               schol. E. Rh. 282a1-2 Merro; schol. Nic. Alex. 8d; Phryn. PS 93.4 ;
                               Harp. α 142 (Σb α 1403; Phot. α 1947; Su. α 2490); Harp. ο 28 (Phot. ο
                               433; Su. ο 512); Tz. Chil. 10.948 </title></bibl></ref></lem>
-               </app>.</p></div>
-      </body>
-      <back>
-         <div type="ParallelPassages">
-            <head>Passi Paralleli</head>
-            <cit xml:id="Oro">
-               <bibl>
-                  <title ref="#SP">Sistema Periodico, Oro</title>
-                  <citedRange>Oro, OC I, pp. XX-XX</citedRange>
-                  <author ref="#P.L.">Primo Levi</author>
-                  <date when="1974">1974</date>
-               </bibl>
-               <quote> </quote>
-            </cit>
+               </app>.</p>
          </div>
-      </back>
+      </body>
    </text>
 </TEI>
