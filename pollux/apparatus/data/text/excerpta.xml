@@ -27,12 +27,10 @@
                θυμιαστήρια, ἰλαστήρια, εὐκτήρια, προφητεῖα, μαρτύρια, <app type="source">
                   <lem><quote>προσευχαί, καθώς φησι Φίλων<bibl><title>cf. Ph. Legat. 132.6, 134.3,
                               138.3, 148.3</title></bibl></quote></lem>
-               </app>,⌡ σηκοί, τεμένη{ν}⌠<app type="analogue">
-                  <lem><ref type="parallelPassage">οἱονεὶ εἰς τιμὴν τοῦ θεοῦ
-                              ἀποτετμημένα<bibl><title>de veriloquio cf. Ap.Soph. 151.4; schol. D
-                              Hom. Il. 6.194b-c</title></bibl></ref></lem>
-               </app>·⌡ (7–10) ἔνθεοι τόποι καθιερωμένοι, καθωσιωμένοι, θεῷ ἀνειμένοι, ⌠<app
-                  type="source">
+               </app>,⌡ σηκοί, τεμένη{ν}⌠ <ref type="parallelPassage">οἱονεὶ εἰς τιμὴν τοῦ θεοῦ
+                        ἀποτετμημένα<bibl><title>de veriloquio cf. Ap.Soph. 151.4; schol. D Hom. Il.
+                        6.194b-c</title></bibl></ref> ·⌡ (7–10) ἔνθεοι τόποι καθιερωμένοι,
+               καθωσιωμένοι, θεῷ ἀνειμένοι, ⌠<app type="source">
                   <lem><quote>προσευχῶν οἶκοι<bibl><title>cf. Basil. Ep. 243.2 Courtonne; cf. etiam
                               e.g. Eu.Mt. 21.13</title></bibl></quote></lem>
                </app>, ἁγιάσματα, εὐαγεῖς,⌡ ἀβέβηλοι, ἄσυλοι, ἄψαυστοι, ἀθέατοι,⌠ἀχωρόβατοι,
@@ -43,7 +41,8 @@
                </app>. </p>
             <p> ξθ´. ὅσα Ἕλληνες ἐπὶ ναῶν λέγουσι· (7–8) βωμοί, ἐσχάραι, ἑστίαι, θυμιατήρια· ⌠<app
                   type="source">
-                  <lem><quote>σπονδεῖα<bibl><title>cf. Poll. 10.65</title></bibl></quote></lem>
+                  <lem><quote>σπονδεῖα<bibl><title>cf. Poll. 10.65</title><note>Poll. 10.65
+                              σπονδεῖον, ᾧ τὸν οἶνον ἐπισπένδεις</note></bibl></quote></lem>
                </app>, περιρραντήρια, καθάρσια, καθαρτήρια· ἅλση, κρῆναι, φιάλαι, κρατῆρες,
                περιρραντήρια{ι}, Στυγὸς ὕδωρ, ἁγνιστήρια, ἐφ’ ὧν ζωοθυτοῦσι, καὶ σφαγιάζουσι, καὶ
                λιβανωτὸν ἀνακαίουσι, καὶ τοὺς κεκοιμωμένους περιρραντίζουσι, καὶ δαίμοσι καὶ θεοῖς
@@ -51,14 +50,25 @@
             <p> ο´. ὅσα Ἑλλήνων σεβάσματα· (7) ἀγάλματα, ξόανα, ἕδη θεῶν, βρέτη, εἰκάσματα, ⌠<app
                   type="critico">
                   <lem>ὁμοιώματα</lem>
-                  <rdg wit="#Mc">ὁμοιώτητα</rdg>
+                  <rdg>ὁμοιώτητα Mc</rdg>
                </app>,⌡ μιμήματα, μορφώματα, τυπώματα, ⌠<app type="source">
                   <lem><quote>προσοχθίσματα, βδελύγματα<bibl><title>cf. LXX Dt
-                           7.25‒26</title></bibl></quote></lem>
+                              7.25‒26</title><note>LXX Dt 7.25‒26 τὰ γλυπτὰ τῶν θεῶναὐτῶν
+                              κατακαύσετε πυρί· οὐκ ἐπιθυμήσεις ἀργύριον οὐδὲ χρυσίον ἀπ’ αὐτῶν καὶ
+                              οὐ λήμψῃ σεαυτῷ, μὴ πταίσῃς δι’ αὐτό, ὅτι βδέλυγμα κυρίῳ τῷ θεῷ σού
+                              ἐστιν· καὶ οὐκ εἰσοίσεις βδέλυγμα εἰς τὸν οἶκόν σου καὶ ἔσῃ ἀνάθημα
+                              ὥσπερ τοῦτο· προσοχθίσματι προσοχθιεῖς καὶ βδελύγματι βδελύξῃ, ὅτι
+                              ἀνάθημά ἐστιν</note></bibl></quote></lem>
                </app>, <app type="source">
-                  <lem><quote>χειρῶν<bibl><title>cf. e.g. LXX Ps 113.12, 4Re 19.18, Sap 13.10
-                              4</title></bibl></quote></lem>
-               </app> ἔργα, <app type="source">
+                  <lem><quote>χειρῶν ἔργα<bibl><title>cf. e.g. LXX Ps 113.12, 4Re 19.18, Sap 13.10
+                              4</title><note>LXX Ps 113.12 τὰ εἴδωλα τῶν ἐθνῶν ἀργύριον καὶ χρυσίον,
+                              ἔργα χειρῶν ἀνθρώπων, 4Re 19.18, Sap 13.10 4 χειροποίητα: cf. Ph. Mos.
+                              2.165; cf. etiam e.g. LXX Bel 6.28, Dan 5.23 6 παντοπαθεῖς: cf.
+                              [Clem.] Hom. 4.15.2 πλὴν ἐπάνειμι ἐπὶ τὴν πρωτίστην τῶν Ἑλλήνων δόξαν,
+                              τὴν πολλοὺς καὶ παντοπαθεῖς θεοὺς εἶναι μυθολογοῦσαν; Georgius
+                              Cedrenus 1.55.19 οἱ μὲν οὖν πολλοὺς καὶ παντοπαθεῖς εἰσηγούμενοι
+                              θεούς</note></bibl></quote></lem>
+               </app>, <app type="source">
                   <lem><quote>χειροποίητα<bibl><title>cf. Ph. Mos. 2.165; cf. etiam e.g. LXX Bel
                               6.28, Dan 5.23 6</title></bibl></quote></lem>
                </app>, χαλκουργήματα, εἴδωλα, χρυσοχώνευτα, ἀνδριάντες, στῆλαι, καθιδρύματα,⌡
@@ -68,7 +78,7 @@
                               1.55.19</title></bibl></quote></lem>
                </app> Ἑλλήνων θεούς, καὶ <app type="source">
                   <lem><quote>δῆμον<bibl><title>cf. Theodorus Metochites Orationes 4.12.124,
-                              Laudatio s. Demetrii 10.458</title></bibl></quote></lem>
+                     Laudatio s. Demetrii 10.458</title><note>Theodorus Metochites Orationes 4.12.124 δῆμον θεῶν ἄτακτον καὶ πολυαρχίαν</note></bibl></quote></lem>
                </app>, καὶ <app type="source">
                   <lem><quote>πολυαρχίαν<bibl><title>cf. [Io.D.] Vita Barlaam et Joasaph 10.85 Volk;
                               Theodorus Metochites Orationes 4.12.124 Kaltsogianni-Polemis, Laudatio
