@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+        
+         <sourceDesc>
+            <listWit>
+
+               <!-- testi--><witness xml:id="pollux_transl" corresp="#Pollux_traduzione">Pollux
+                  translation</witness>
+               <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
+               <witness xml:id="versio_brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
+               <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
+
+               <!-- traduzioni-->
+               
+                  <witness xml:id="versio_brevis_transl" corresp="#Brevis_traduzione">Versio Brevis translation</witness>
+               <witness xml:id="excerpta_transl" corresp="#Excerpta_traduzione">Excerpta translation</witness>
+               
+               <!-- commenti-->
+                  
+                  <witness xml:id="pollux_comment" corresp="#Pollux_commento">Pollux comment</witness>
+             
+                  <witness xml:id="excerpta_comment" corresp="#Excerpta_commento">Excerpta comment</witness>
+
+               
+
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+
+   <text>
+      <group>
+         <!-- testi -->
+         <text xml:id="Pollux">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux.xml"
+               xpointer="testoBase"/>
+         </text>
+
+
+         <text xml:id="Pollux_Brevis">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="versio_brevis.xml"
+               xpointer="Brevis_testo"/>
+         </text>
+
+         <text xml:id="Excerpta">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta.xml"
+               xpointer="excerpta_testo"/>
+         </text>
+
+
+         <!-- traduzioni-->
+         <text xml:id="Pollux_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_transl.xml"
+               xpointer="Pollux_transl"/>
+         </text>
+
+         <text xml:id="Brevis_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="versio_brevis_transl.xml"
+               xpointer="Brevis_transl"/>
+         </text>
+
+          <text xml:id="Excerpta_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_transl.xml"
+               xpointer="Excerpta_transl"/>
+         </text>
+
+         <!-- commenti-->
+ <text xml:id="Pollux_commento">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="pollux_comment.xml"
+               xpointer="Pollux_comm"/>
+         </text>
+
+   
+
+          <text xml:id="Excerpta_commento">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="excerpta_comment.xml"
+               xpointer="Excerpta_comm"/>
+         </text>
+     
+      </group>
+   </text>
+
+</TEI>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pollux - EVT</title>
+  <style>
+    @font-face {
+      font-family: 'evt-icons';
+      src: url('./witness/fonts/evt.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+    }
+
+    body {
+      margin: 0;
+      background-color: #263238;
+      color: white;
+      font-family: sans-serif;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 10px;
+      gap: 10px;
+      height: 60px;
+    }
+
+    header .left {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      font-size: 1.2em;
+      font-family: Junicode, Times, serif;
+      font-size: 30px;
+    }
+
+    .globalMenu {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .buttonSwitch {
+      background: #263238;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 10px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .buttonSwitch.active {
+      background: #ffc107;
+      color: black;
+    }
+    .buttonSwitch.active .icon-evt {
+      color: black;
+    }
+
+    .icon-evt {
+      font-family: 'evt-icons';
+      font-size: 24px;
+      color: white;
+      line-height: 1;
+    }
+
+    iframe {
+      width: 100vw;
+      height: calc(100vh - 80px);
+      border: none;
+      display: block;
+    }
+
+    .hidden {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="left">
+      <span>Pollux</span>
+    </div>
+    <div class="globalMenu">
+        <button class="buttonSwitch" onclick="toggleIframe('apparatus')">
+        Apparatuses &nbsp;<span class="icon-evt">&#xe92f;</span>
+        </button>
+        <button class="buttonSwitch active" onclick="toggleIframe('witness')">
+        Witnesses &nbsp;<span class="icon-evt">&#xe92e;</span>
+        </button>
+    </div>
+
+  </header>
+
+  <iframe id="apparatusFrame" src="./apparatus/index.html" class="hidden"></iframe>
+  <iframe id="witnessFrame" src="./witness/index.html"></iframe>
+
+  <script>
+    function toggleIframe(target) {
+      const apparatus = document.getElementById('apparatusFrame');
+      const witness = document.getElementById('witnessFrame');
+
+      if (target === 'apparatus') {
+        apparatus.classList.remove('hidden');
+        witness.classList.add('hidden');
+      } else {
+        apparatus.classList.add('hidden');
+        witness.classList.remove('hidden');
+      }
+
+      document.querySelectorAll('.buttonSwitch').forEach(btn => btn.classList.remove('active'));
+      event.currentTarget.classList.add('active');
+    }
+  </script>
+
+</body>
+</html>
