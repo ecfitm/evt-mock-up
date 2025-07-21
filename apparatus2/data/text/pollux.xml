@@ -92,8 +92,10 @@
                         Vocab. 402.17; Eust. in Od. 1.336.30; hinc Thom.Mag. Ecl.
                         246.6</title><note>schol. E. Ph. 1010: διαφέρει σηκὸς καὶ ἄδυτον. ὁ μὲν γὰρ
                         σηκὸς ἐπὶ ἀνθρώπου, τὸ δὲ ἄδυτον ἐπὶ θεοῦ; Ammon. Diff. 329 ναὸς καὶ σηκὸς
-                        διαφέρει. ὁ μὲν γὰρ ναός ἐστι θεῶν, ὁ δὲ σηκὸς ἡρώων</note></bibl></ref>
-               λέγουσιν, <app type="source">
+                        διαφέρει. ὁ μὲν γὰρ ναός ἐστι θεῶν, ὁ δὲ σηκὸς ἡρώων; Eust. in Od. 1.336.30
+                        σηκὸς γοῦν φασὶν ἡρῷον; Thom.Mag. Ecl. 246.6 ναός ἐπὶ θεῶν, σηκός ἐπὶ ἡρώων·
+                        οὕτω γὰρ καὶ Πολυδεύκης λέγει</note></bibl></ref> λέγουσιν, <app
+                  type="source">
                   <lem>
                      <quote>οἱ δὲ ποιηταὶ καὶ τὸν τῶν θεῶν<bibl>
                            <title>Trag. adesp. fr. 424 Kannicht-Snell</title>
@@ -147,18 +149,20 @@
                            <rdg>μιμητά XaXd ante correctionem B</rdg>
                         </app><bibl><title>cf. E. Io. 1429; cf. etiam Thphr. De pietate fr. 13
                               Pötscher; Ph. Legat. 290.5</title></bibl></quote></lem>
-               </app>, 
-                  <ref type="parallelPassage"><app type="critico">
-                           <lem>τυπώματα</lem>
-                           <rdg>om. AV</rdg>
-                        </app><bibl><title>cf. schol. rec. Ar. Nu. 995c
-                     (anon.)</title></bibl></ref>
-               , <app type="source">
+               </app>, <ref type="parallelPassage"><app type="critico">
+                     <lem>τυπώματα</lem>
+                     <rdg>om. AV</rdg>
+                  </app><bibl><title>cf. schol. rec. Ar. Nu. 995c (anon.)</title></bibl></ref> ,
+                  <app type="source">
                   <lem><quote>εἴδη<bibl><title>cf. e.g. Plut. Num. 8.8, De superstitione 167d;
                               Philostr. VA 6.19</title></bibl></quote></lem>
                </app>, ἰδέαι. <app type="source">
-                  <lem><quote>βρέτας<bibl><title>cf. e.g. A. Eu. 80; E. Alc. 974, Andr. 331 etc.,
-                              Ar. Eq. 31 6</title></bibl></quote></lem>
+                  <lem><quote><ref type="parallelPassage">βρέτας<bibl><title>cf. Eust. Exegesis in
+                                 canonem iambicum pentecostalem 1.163</title><note>cf. Eust.
+                                 Exegesis in canonem iambicum pentecostalem 1.163 ποιητικὴ δὲ λέξις
+                                 τὸ βρέτας καὶ ἄζηλος πεζολόγοις ῥήτορσι
+                              </note></bibl></ref><bibl><title>cf. e.g. A. Eu. 80; E. Alc. 974,
+                              Andr. 331 etc., Ar. Eq. 31 6</title></bibl></quote></lem>
                </app> δὲ ἢ δείκηλον <app type="critico">
                   <lem>οὐκ</lem>
                   <rdg>ὃ οὐκ V</rdg>
@@ -195,7 +199,9 @@
                   <lem>ἡ</lem>
                   <rdg>τὴν x, v</rdg>
                </app> ἐν <ref type="parallelPassage">πρυτανείῳ<bibl><title>cf. schol. Pi. N. 11.1a,
-                        1b</title></bibl></ref> , ἐφ’ ἧς <app type="critico">
+                        1b</title><note>schol. Pi. N. 11.1a παρόσον αἱ τῶν πόλεων ἑστίαι ἐν τοῖς
+                        πρυτανείοις ἀφίδρυνται, 1b ἵδρυται δὲ ἐν τοῖς πρυτανείοις ἡ
+                     Ἑστία</note></bibl></ref> , ἐφ’ ἧς <app type="critico">
                   <lem>τὸ πῦρ τὸ ἄσβεστον</lem>
                   <rdg>τὸ ἄσβεστον πῦρ E</rdg>
                </app> ⸂<app type="critico">
@@ -219,14 +225,18 @@
                   <app type="critico">
                      <lem>ἐφ’ ἧς τοῖς</lem>
                      <rdg>ἐφ’οἷς τοῖς F Xa C BDG</rdg>
-                  </app> ἥρωσιν<bibl><title>cf. Ammon. Diff. 113; Porph. Antr. 6.19; Eust. in Od.
+                  </app> ἥρωσιν<bibl><note>Porph. Antr. 6.19 χθονίοις δὲ καὶ ἥρωσιν
+                        ἐσχάρας</note><title>cf. Ammon. Diff. 113; Porph. Antr. 6.19; Eust. in Od.
                         1.255.37</title></bibl></ref> ἀποθύομεν· <ref type="parallelPassage">ἔνιοι
                   δὲ <app type="critico">
                      <lem>τῶν</lem>
                      <rdg>om. Xa</rdg>
                   </app> ποιητῶν καὶ τὸν τῶν θεῶν βωμὸν οὕτω κεκλήκασιν<bibl><title>cf. Ammon. Diff.
-                        113; Eust. in Od. 1.255.37</title></bibl></ref> . εἴη δ’ ἂν ὁ μὲν <app
-                  type="critico">
+                        113; Eust. in Od. 1.255.37</title><note>Ammon. Diff. 113 παρὰ δ’ Εὐριπίδῃ
+                        (fr. 628 Kannicht) ἐσχάρα ἀντὶ τοῦ βωμοῦ κεῖται ἐν Πλεισθένει· †μηλοσφάγετον
+                        δαιμόνων ἐπ’ ἐσχάραις. καὶ Σοφοκλῆς (fr. 730 Radt) ἐν Χρύσῃ; Σοφοκλῆς δὲ,
+                        καὶ ἀντὶ βωμοῦ οἶδεν ἐσχάραν. λέγει δὲ καὶ Εὐριπίδης, μηλοσφαγεῖ τε δαιμόνων
+                        ἐπ’ ἐσχάραις </note></bibl></ref> . εἴη δ’ ἂν ὁ μὲν <app type="critico">
                   <lem>εἴσω</lem>
                   <rdg>ἔσω Xa</rdg>
                </app> περιρραντηρίων τόπος ἔνθεος, <app type="critico">
@@ -240,9 +250,7 @@
 
 
             <p xml:id="poll_p9">(9) <app type="critico">
-                  <lem>ὁ δ’ ἔξω 
-                        βέβηλος
-                     · τὸ γὰρ ἀνίερος ⸂<app type="critico">
+                  <lem>ὁ δ’ ἔξω βέβηλος · τὸ γὰρ ἀνίερος ⸂<app type="critico">
                         <lem>ἁρμόττοι ἂν</lem>
                         <rdg>ἥρμοστο τῇ διανοίᾳ BDGH</rdg>
                      </app>⸃ μᾶλλον ἐπὶ τῶν οὐ καθαρῶν τόπων</lem>
@@ -285,7 +293,9 @@
                      <rdg>αὐτοὺς B</rdg>
                   </app> κύκλος περίβολος<bibl><title>cf. schol. Hom. Od. 8.57c; schol. Nic. Ther.
                         548b; Harp. ε 134, ο 20 (unde Phot. ε 1927; Su. ε 3015); Hsch. ε 5935; EM
-                        375.25 </title></bibl></ref> . ⸂<app type="critico">
+                        375.25 </title><note>Harp. ε 134 ἕρκειος Ζεύς, ᾧ βωμὸς ἐντὸς ἕρκους ἐν τῇ
+                        αὐλῇ ἵδρυται· τὸν γὰρ περίβολον ἕρκος ἔλεγον</note></bibl></ref> . ⸂<app
+                  type="critico">
                   <lem>εἰ δὲ καὶ ἄσυλόν τι εἴη, τοῦτο</lem>
                   <rdg>τὸ δὲ ἐν αὐτοῖς ἄσυλον C Gγρ</rdg>
                </app>⸃ καὶ <ref type="parallelPassage"><app type="source">
@@ -293,7 +303,12 @@
                                  templi loco dicitur</title></bibl></quote></lem>
                   </app><bibl><title>cf. Or. 85.32 ; Hsch. κ 4079; Σ κ 462 (Phot. κ 1085, Su. κ
                         2403) ; Eust. in Od. 1.421.25; EGud 346.10 Sturz; EM 537.56
-                  </title></bibl></ref> ⸂λέγε⸃ καὶ <app type="source">
+                        </title><note>κρησφύγετα. φρούρια, καταφύγια, ἐν οἷς ἐκρύπτοντο οἱ νησιῶται
+                        τὸν Μίνοα φεύγοντες. τὸ οὖν κρησφύγετον ἔλεγον τὸ χρήσιμον τοῖς φεύγουσιν
+                        εἰς ἀσφάλειαν; Σ κ 462 (Phot. κ 1085, Su. κ 2403) κρησφύγετα· τὰ πρὸς τοὺς
+                        χειμῶνας στενὰ καὶ ὀχυρώματα. οἱ δέ φασιν ὅτι Κρῆτες τοὺς νησιώτας ἅμα Μίνῳ
+                        τῷ βασιλεῖ θαλασσοκρατοῦντι ἔφυγον εἰς σπήλαιά τινα, ὅθεν ἐκεῖνα ὠνομάσθησαν
+                        Κρησφύγετα</note></bibl></ref> ⸂λέγε⸃ καὶ <app type="source">
                   <lem><quote>φύξιμον<bibl><title>cf. e.g. Plut. Rom.
                      9.3</title></bibl></quote></lem>
                </app>· καὶ <app type="critico">
@@ -304,7 +319,8 @@
                   <rdg>om. C</rdg>
                </app> ἱκέταις ἀσφάλεια. ἡ δ’ <ref type="parallelPassage">ἄνετος θεοῖς γῆ
                         ἱερὰ<bibl><title>cf. Harp. α 138 , unde Σ´´´ (Σb α 1329; Phot. α 1888)
-                     </title></bibl></ref>
+                        </title><note>Harp. α 138 ἄνετον· ἀντὶ τοῦ ἱερὸν καὶ ἀνειμένον θεῷ τινι
+                        Ὑπερείδης Δηλιακῷ (fr. 72 Jensen)</note></bibl></ref>
                <app type="critico">
                   <lem>καὶ</lem>
                   <rdg>om. C</rdg>
@@ -313,7 +329,8 @@
                         col. 13.44; schol. Ar. Ra. 352, Pac. 606a; schol. D. 3.101 ; schol. E. Rh.
                         282a1-2 Merro; schol. Nic. Alex. 8d; Phryn. PS 93.4 ; Harp. α 142 (Σb α
                         1403; Phot. α 1947; Su. α 2490); Harp. ο 28 (Phot. ο 433; Su. ο 512); Tz.
-                        Chil. 10.948 </title></bibl></ref> .</p>
+                        Chil. 10.948 </title><note>schol. D. 3.101 τὴν ἱερὰν γῆν ὡς ὀργάδα καὶ ἄνετον;
+                           Phryn. PS 93.4 ὀργάδα τὴν ἱερὰν καὶ ἀνιερωμένην γῆν</note></bibl></ref> .</p>
          </div>
       </body>
    </text>
