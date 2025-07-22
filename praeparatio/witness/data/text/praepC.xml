@@ -11,14 +11,15 @@
          <publicationStmt>
             <p>Publication Information</p>
          </publicationStmt>
-         
+
          <sourceDesc>
             <p/>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
-      
+
+     
       <body xml:id="praepC">
          <div type="section" xml:id="praep_C_ch1" n="1">
             <head>Praeparatio C</head>
@@ -28,7 +29,7 @@
                <head>α 123.C</head>
                <p xml:id="praep_C_par1">
                   <seg xml:id="praep_C_seg1">
-                     <term ref="#journee"/>Σʹʹʹ (Σb α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· ὁ μὴ
+                     <term ref="#journee"/>Σʹʹʹ (Σᵇ α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· ὁ μὴ
                      κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος. οὕτως Φρύνιχος.</seg>
                </p>
             </div>
@@ -36,6 +37,6 @@
             
          </div>
       </body>
-      
+
    </text>
 </TEI>
