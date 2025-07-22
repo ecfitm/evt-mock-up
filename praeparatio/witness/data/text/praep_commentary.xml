@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <body xml:id="praep_1_comm">
+         <div type="section" xml:id="praep_ch1_comm" n="1">
+            <head>Commentary</head>
+
+
+            <p>The materials which compose α 3.A–B and PS 29.13–5 most likely derive from a single,
+               more complete entry of the PS which was later split into separate items owing to
+               partly independent processes of excerption and epitomisation. On other similar cases
+               of ‘multiple’ entries in the epitome of the PS and in the indirect tradition, which
+               result from independent processes of excerption and epitomisation from the PS, see
+               Favi (forthcoming). The presence of α 3.A and PS 29.13–5 in the epitome may be
+               explained postulating that αὐτόκερας and αὐτόκρατον were discussed together by
+               Phrynichus, who presented the former as an Atticism and the latter as a more recent
+               equivalent. Although we lack any direct evidence as to how widespread αὐτόκρατον was,
+               the inference above becomes plausible if one takes on board Phrynichus’ comment that
+               αὐτόκρατον was common παρὰ τοῖς πολλοῖς ‘among the laymen’ in PS 29.13–5 (the comment
+               in Ath. epit. 1.32f–33a that αὐτόκρατος was a variety of Chian wine may well provide
+               further support). The similarity between α 3.A and α 3.B (i, ii) is clear, although
+               each of them contains individual differences. Notice, too, that α 3.A and α 3.B (iii)
+               seemingly shared the corrupt reading αὐτοκέραστον (originally the result of a saut du
+               même au même in αὐτό‹κρατον οἷον εὐ›κέραστον, as suggested by Kaibel, is plausible).
+            </p>
+         </div>
+
+         <div type="section" xml:id="praep_ch2_comm" n="2">
+            <head>Commentary</head>
+
+
+            <p>This entry was extracted from α 22.A with a view to highlight the noteworthy
+               expression employed by Eupolis and quoted within the previous entry. </p>
+         </div>
+
+         <div type="section" xml:id="praep_ch3_comm" n="3">
+            <head>Commentary</head>
+
+
+            <p>The comparison with Phryn. PS 82.5–6 may suggest that the two entries belonged in a
+               larger, onomastic section about words deriving from κίβδηλος. Indeed, the lemma of
+               Phryn. PS 82.5–6 is clearly reminiscent of Ar. Ra. 720–1, where the coin metaphor is
+               a reference to Athenian politicians (cf. Dover 1993, 281–2). Therefore, the two
+               entries going back to the PS have more in common than it may look at first sight.
+            </p>
+         </div>
+      </body>
+
+   </text>
+</TEI>

@@ -5,7 +5,7 @@
     "logoUrl": "",
     "defaultLanguage": "en",
 
-	"dataUrl": "data/text/mainPollux.xml",
+	"dataUrl": "data/text/mainPraep.xml",
     "sourcesUrl"       : "",
     "analoguesUrl"     : "",
     "sourcesTextsUrl" : "",
@@ -67,7 +67,7 @@
         "visible": false
     }],
 
-    "mainDocId": "Pollux",
+    "mainDocId": "Praep_A",
 
     "enableXMLdownload" : true,
     "downloadableFiles": [
@@ -113,7 +113,7 @@
 
     "toolHeatMap": false,
     "preferredWitness": "",
-    "skipWitnesses": "AV,BDEG,C,B,V,XaDE,E,Gγρ,S,Xd,Xaac,EGac,b,v,x,Xdsl,F,Fac,XaXdac,D,BEG,DH,Mc",
+    "skipWitnesses": "praeparatio_A",
 
 	"listDef": "<listWit>, <listChange>",
 	"versionDef": "<witness>, <change>",

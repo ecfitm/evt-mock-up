@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <body xml:id="praepC">
+         <div type="section" xml:id="praep_C_ch1" n="1">
+            <head>Praeparatio C</head>
+
+
+            <div type="fragment" n="a_3.C">
+               <head>α 123.C</head>
+               <p xml:id="praep_C_par1">
+                  <seg xml:id="praep_C_seg1">
+                     <term ref="#journee"/>Σʹʹʹ (Σb α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· ὁ μὴ
+                     κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος. οὕτως Φρύνιχος.</seg>
+               </p>
+            </div>
+
+
+         </div>
+      </body>
+
+   </text>
+</TEI>

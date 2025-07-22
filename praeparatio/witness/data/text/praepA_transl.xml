@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <body xml:id="praepA_transl">
+         <div type="section" xml:id="praep_A_ch1_transl" n="1">
+            <head>Preaparatio A - translation</head>
+
+
+            <div type="fragment" n="a_3.A">
+               <head>α 3.A</head>
+               <p>
+                  <seg>
+                     <term ref="#journee"/>αὐτόκερας: (It means) αὐτοκέραστον (‘self-mixed’) and
+                     συμμέτρως κεκρασμένον (‘conveniently mixed’), that is, naturally disposed for
+                     mixing. It is also used adverbially.</seg>
+               </p>
+            </div>
+            
+            <div type="fragment" n="a_23.A">
+               <head>α 23.A</head>
+               <p>
+                  <seg xml:id="praep_A_seg2">
+                     <term ref="#journee"/>ἀπιστίαν βλέπει (‘[A man] who has an untrustworthy look’): Eupolis (fr. 332) [writes thus]. It means [one who is] most unreliable.</seg>
+               </p>
+            </div>
+          
+
+         </div>
+      </body>
+
+   </text>
+</TEI>

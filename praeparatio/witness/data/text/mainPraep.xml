@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+        
+         <sourceDesc>
+            <listWit>
+
+               <!-- testi-->
+               <witness xml:id="praeparatio_A" corresp="#Praep_A">Praeparatio A</witness>
+               <witness xml:id="praeparatio_B" corresp="#Praep_B">Praeparatio B</witness>
+               <witness xml:id="praeparatio_C" corresp="#Praep_C">Praeparatio C</witness>
+
+               <!-- traduzioni-->
+               <witness xml:id="praep_A_transl" corresp="#PraepA_traduzione">Praeparatio A
+                  translation</witness>
+               <witness xml:id="preap_B_transl" corresp="#PraepB_traduzione">Praeparatio B translation</witness>
+               <witness xml:id="preap_C_transl" corresp="#PraepC_traduzione">Praeparatio C translation</witness>
+               
+               <!-- commento-->
+                  
+                  <witness xml:id="Praparatio_commentary" corresp="#Praeparatio_commento">Praeparatio commentary</witness>
+             
+         
+
+               
+
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+
+
+   <text>
+      <group>
+         <!-- testi -->
+         <text xml:id="Praep_A">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepA.xml"
+               xpointer="praepA"/>
+         </text>
+
+
+         <text xml:id="Praep_B">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepB.xml"
+               xpointer="praepB"/>
+         </text>
+
+         <text xml:id="Praep_C">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepC.xml"
+               xpointer="praepC"/>
+         </text>
+
+
+         <!-- traduzioni-->
+         <text xml:id="PraepA_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepA_transl.xml"
+               xpointer="praepA_transl"/>
+         </text>
+
+         <text xml:id="PraepB_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepB_transl.xml"
+               xpointer="praepB_transl"/>
+         </text>
+
+          <text xml:id="PraepC_traduzione">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepC_transl.xml"
+               xpointer="praepC_transl"/>
+         </text>
+
+         <!-- commento-->
+ <text xml:id="Praeparatio_commento">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praep_commentary.xml"
+               xpointer="praep_1_comm"/>
+         </text>
+
+   
+     
+      </group>
+   </text>
+
+</TEI>

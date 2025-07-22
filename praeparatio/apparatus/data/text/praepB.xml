@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      
+      <body xml:id="praepB">
+         <div type="section" xml:id="praep_B_ch1" n="1">
+            <head>Praeparatio B</head>
+            
+            
+            <div type="fragment" n="a_3.B"><head>α 3.B</head>  <p xml:id="praep_B_par1">
+               <seg xml:id="praep_B_seg1">
+                  <term ref="#journee"/>(i) Σʹ (Σb α 2468, Phot. α 3217, Su. α 4496): αὐτόκερας· αὐτόκρατον, οἷον εὐκέραστον, συμμέτρως κεκραμένον.
+                  (ii) Phot. α 3217: αὐτόκερας· αὐτόκρατον. Κρατῖνος Νόμοις. καὶ αὐτοκέρης ὁ αὐτόκρατος.
+                  (iii) Su. α 4496: αὐτοκέραστον· οἷον εὐκέραστον, συμμέτρως κεκραμένον.</seg>
+            </p></div>
+            
+          
+         </div>
+      </body>
+      
+   </text>
+</TEI>

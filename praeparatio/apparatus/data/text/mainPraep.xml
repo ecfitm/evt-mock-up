@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         
+         <sourceDesc>
+           <p></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   
+   <text>
+      <group>
+         <!-- testi -->
+         <text xml:id="Praep_A">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepA.xml"
+               xpointer="praepA"/>
+         </text>
+         
+         
+         <text xml:id="Praep_B">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepB.xml"
+               xpointer="praepB"/>
+         </text>
+         
+         <text xml:id="Praep_C">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praepC.xml"
+               xpointer="praepC"/>
+         </text>
+         
+         
+       
+         
+         
+         
+      </group>
+   </text>
+   
+</TEI>
