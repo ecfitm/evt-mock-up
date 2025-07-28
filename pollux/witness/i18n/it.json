@@ -1,16 +1,16 @@
 {
 	"ANALOGUES": {
 		"ANALOGUE": "Passo parallelo",
-		"BIBLIOGRAPHIC_REFERENCE": "Riferimento Bibliografico",
+		"BIBLIOGRAPHIC_REFERENCE": "Expand quotation",
 		"PARALLEL_PASSAGES_IN": "Passo parallelo in",
 		"TEXT": "Testo",
 		"XML": "XML",
 		"XML_SOURCE_FOR": "Codice XML per "
 	},
 	"APPARATUSES": {
-		"CRITICAL_APPARATUS": "Apparato Critico",
-		"SOURCES": "Fonti",
-		"ANALOGUES": "Passi paralleli"
+		"CRITICAL_APPARATUS": "Critical Apparatus",
+		"SOURCES": "Loci classici",
+		"ANALOGUES": "Loci paralleli"
 	},
 	"BILIOGRAPHY": {
 		"STYLE": "Stile",
@@ -75,7 +75,7 @@
 		"SEE_FULL_SOURCE_WEB": "Visualizza il testo completo online",
 		"TABS": {
 			"CRITICAL_NOTE": "Nota critica",
-			"MORE_INFO": "Info aggiuntive",
+			"MORE_INFO": "Info",
 			"ORTHOGRAPHIC_VARIANTS": "Varianti ortografiche",
 			"XML": "XML"
 		},
@@ -290,7 +290,7 @@
 		"TITLE": "Indice dei contenuti"
 	},
 	"SOURCES": {
-		"BIBLIOGRAPHIC_REFERENCE": "Riferimento Bibliografico",
+		"BIBLIOGRAPHIC_REFERENCE": "Expand quotation",
 		"COMPARE_TEXTS": "Confronta testi",
 		"QUOTED_SOURCES": "Fonti citate",
 		"TEXT": "Testo",

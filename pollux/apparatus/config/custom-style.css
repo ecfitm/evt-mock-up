@@ -103,3 +103,7 @@ span.quote sup.iconbis-evt_quote-right {
 .app_lemma_content evt-witness-ref{
     display: none !important;
 }
+
+.analogue-header {
+  font-family: serif !important;
+}

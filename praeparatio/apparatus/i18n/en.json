@@ -1,7 +1,7 @@
 {
 	"ANALOGUES": {
 		"ANALOGUE": "Analogue",
-		"BIBLIOGRAPHIC_REFERENCE": "Bibliographic Reference",
+		"BIBLIOGRAPHIC_REFERENCE": "Expand quotation",
 		"PARALLEL_PASSAGES_IN": "Parallel Passages in",
 		"TEXT": "Text",
 		"XML": "XML",
@@ -9,8 +9,8 @@
 	},
 	"APPARATUSES": {
 		"CRITICAL_APPARATUS": "Critical Apparatus",
-		"SOURCES": "Sources",
-		"ANALOGUES": "Analogues"
+		"SOURCES": "Loci classici",
+		"ANALOGUES": "Loci paralleli"
 	},
 	"BIBLIOGRAPHY": {
 		"STYLE": "Style",
@@ -85,7 +85,7 @@
 		"SEE_FULL_SOURCE_WEB": "See full text online",
 		"TABS": {
 			"CRITICAL_NOTE": "Critical Note",
-			"MORE_INFO": "More Info",
+			"MORE_INFO": "Info",
 			"ORTHOGRAPHIC_VARIANTS": "Orthographic Variants",
 			"XML": "XML"
 		},
@@ -247,7 +247,7 @@
 		"SELECT_ALL_TYPES": "Select All Types"
 	},
 	"SOURCES": {
-		"BIBLIOGRAPHIC_REFERENCE": "Bibliographic Reference",
+		"BIBLIOGRAPHIC_REFERENCE": "Expand quotation",
 		"COMPARE_TEXTS": "Compare texts",
 		"QUOTED_SOURCES": "Quoted Sources",
 		"TEXT": "Text",
