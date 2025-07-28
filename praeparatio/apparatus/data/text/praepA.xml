@@ -21,23 +21,19 @@
 
       <body xml:id="praepA">
          <div type="section" xml:id="praep_A_ch1" n="1">
-            <head>Preaparatio A</head>
+            <head>Praeparatio A</head>
 
 
-            <div type="fragment" n="a_3.A">
-               <head>α 3.A</head>
-               <p>Cf. <ref target="https://gallica.bnf.fr/ark:/12148/btv1b525026958/f106.item">f.
-                     47r</ref></p>
-               <p xml:id="praep_A_par1">
-                  <seg xml:id="praep_A_seg1">
-                     <term ref="#journee"/><ref type="parallelPassage"><bibl><title>PS
+            <div type="entry" n="a_3.A">
+               <head>α 3.A <ref target="https://gallica.bnf.fr/ark:/12148/btv1b525026958/f106.item">Coisl. f.
+                     47r</ref></head>
+               <p><ref type="parallelPassage">Loci paralleli<bibl><title>PS
                               29.13–5</title><note>PS 29.13–5: αὐτόκρατον: ἐπὶ τοῦ ἀμιγοῦς καὶ
                               ἀκεράστου καὶ ἀκράτου οἴνου. παρὰ γὰρ τοῖς πολλοῖς καθωμίληται τὸ
                               αὐτόκρατον ἐπὶ τοῦ συμμέτρως κεκραμένου (‘αὐτόκρατον: It is used for
                               wine that is ἀμιγής (‘unmixed’), ἀκέραστος (‘self-mixed’), and ἄκρατος
                               (‘unmixed’). αὐτόκρατον is used among laymen for wine that is
-                              conveniently mixed’).</note></bibl></ref>
-                     <ref type="parallelPassage"><bibl><title>Poll. 6.23–4</title><note>Poll.
+                              conveniently mixed’).</note></bibl><bibl><title>Poll. 6.23–4</title><note>Poll.
                               6.23–4: καὶ ἄκρατος οἶνος, ἀμιγὴς πρὸς ὕδωρ, ἄμικτος. ἄκρατον σπάσαι.
                               κεκραμένος, εὔκρατος εὔκρας εὐκραής, εὐκέραστος. αὐτόκρας ὁ μηδεμιᾶς
                               προσθήκης δεόμενος, καὶ αὐτοκέρας καὶ αὐτόκρατον (‘Wine ἄκρατος
@@ -45,23 +41,27 @@
                               ἄκρατον (‘unmixed wine’). κεκραμένος (‘mixed’), εὔκρατος εὔκρας
                               εὐκραής, εὐκέραστος (‘well-mixed’). αὐτόκρας (‘self-mixed’). Wine that
                               does not require anything to be added, also αὐτοκέρας (‘self-mixed’)
-                              and αὐτόκρατον (‘self-mixed’)’). </note></bibl></ref>
-                     <app>
+                              and αὐτόκρατον (‘self-mixed’)’). </note></bibl></ref></p>
+               <p xml:id="praep_A_par1">
+                  <seg xml:id="praep_A_seg1">
+                     <term ref="#journee"/>
+                     
+                     <app type="critical">
                         <lem>αὐτόκερας</lem>
-                        <rdg>αὐτοκέρας B</rdg>
-                        <note>αὐτόκερας Kaibel (1899, 19)</note>
-                     </app>· σημαίνει τὸ <app>
+                        <rdg>Kaibel (1899, 19): αὐτοκέρας B</rdg>
+                        
+                     </app>· σημαίνει τὸ <app type="critical">
                         <lem>αὐτοκέραστον</lem>
                         <rdg>αὐτό‹κρατον οἷον εὐ›κέραστον Kaibel ex Σ´ (= PS α 3.B)</rdg>
-                     </app> καὶ συμμέτρως κεκρασμένον <app>
+                     </app> καὶ συμμέτρως κεκρασμένον <app type="critical">
                         <lem>ἤγουν</lem>
-                        <rdg>ὁτιοῦν B</rdg>
-                        <note>ἤγουν Bekker (1814–1821 vol. 1, 3)</note>
-                     </app> πεφυκὸς κεράννυσθαι. <app>
-                        <lem><app>
+                        <rdg>Bekker (1814–1821 vol. 1, 3): ὁτιοῦν B</rdg>
+                        
+                     </app> πεφυκὸς κεράννυσθαι. <app type="critical">
+                        <lem><app type="critical">
                               <lem>εἴρηται δὲ καὶ</lem>
-                              <rdg>καὶ εἴρηται δὲ B : {καὶ} εἴρηται δὲ Bekker</rdg>
-                              <note>εἴρηται δὲ καὶ de Borries (1911, 1)</note>
+                           <rdg>de Borries (1911, 1): καὶ εἴρηται δὲ B : {καὶ} εἴρηται δὲ Bekker</rdg>
+                              
                            </app> ἐπιρρηματικῶς</lem>
                         <rdg>εἴρηται δὲ καὶ ἐπιρρηματικῶς ‹αὐτοκέρας› de Borries</rdg>
                      </app>.</seg>
@@ -69,12 +69,11 @@
             </div>
 
 
-            <div type="fragment" n="a_23.A">
-               <head>α 23.A</head>
-               <p><ref target="https://gallica.bnf.fr/ark:/12148/btv1b525026958/f107.item">f.
-                     47v</ref></p>
-               <p xml:id="praep_A_par2" n="2">
-                  <ref type="parallelPassage"><bibl><title>PS α 22</title><note>PS α 22: ἄνθρωπος
+            <div type="entry" n="a_23.A">
+               <head>α 23.A <ref target="https://gallica.bnf.fr/ark:/12148/btv1b525026958/f107.item">Coisl. f.
+                     47v</ref></head>
+               <p><app type="source"><lem><quote>Loci classici<bibl><title>Eup. fr. 332 (cf. Olson 2014, 30–2).</title></bibl></quote></lem></app></p>
+               <p><ref type="parallelPassage">Loci paralleli<bibl><title>PS α 22</title><note>PS α 22: ἄνθρωπος
                            ἀποφράς· ἀποφράδες ἡμέραι, καθ’ ἃς ἀπηγόρευτό τι πράττειν. σημαίνει οὖν
                            τὸν οἷον ἀπαίσιον καὶ ἔξεδρον καὶ ἐπάρατον ἄνθρωπον. ‘συνέτυχεν ἐξιόντι
                            μοι ἄνθρωπος ἀποφρὰς καὶ βλέπων ἀπιστίαν’ (‘ἄνθρωπος ἀποφράς: the
@@ -82,11 +81,12 @@
                            anything. [This expression] thus means the same as a man [who is]
                            ill-omened and weird and under a curse: ‘On going out, I came across a
                            bad-omened man with an untrustworthy look’ (Eup. fr. 332)’).
-                        </note></bibl></ref>
-                  <ref type="parallelPassage"><bibl><title>Cf. α 22.A.</title></bibl></ref>
-                  <app>
-                     <lem><quote><bibl><title>Eup. fr. 332 (cf. Olson 2014, 30–2).</title></bibl></quote></lem>
-                  </app>ἀπιστίαν βλέπει· Εὔπολις· σημαίνει τὸν ἀπιστότατον. </p>
+                        </note></bibl><bibl><title>Cf. α 22.A.</title></bibl></ref></p>
+               <p xml:id="praep_A_par2" n="2">
+                  
+                  
+                  
+                  ἀπιστίαν βλέπει· Εὔπολις· σημαίνει τὸν ἀπιστότατον. </p>
             </div>
          </div>
       </body>

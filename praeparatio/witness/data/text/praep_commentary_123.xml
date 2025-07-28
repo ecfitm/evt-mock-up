@@ -19,22 +19,16 @@
    </teiHeader>
    <text>
 
-     
-      <body xml:id="praepC">
-         <div type="section" xml:id="praep_C_ch1" n="1">
-            <head>Praeparatio C</head>
-            
-            
-            <div type="entry" n="a_3.C">
-               <head>α 123.C</head>
-               <p xml:id="praep_C_par1">
-                  <seg xml:id="praep_C_seg1">
-                     <term ref="#journee"/>Σʹʹʹ (Σᵇ α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· ὁ μὴ
-                     κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος. οὕτως Φρύνιχος.</seg>
-               </p>
-            </div>
-            
-            
+      <body xml:id="praep_3_comm">
+         <div type="section" xml:id="praep_ch3_comm" n="3">
+            <head>Commentary on α 123</head>
+
+            <p>The comparison with Phryn. PS 82.5–6 may suggest that the two entries belonged in a
+               larger, onomastic section about words deriving from κίβδηλος. Indeed, the lemma of
+               Phryn. PS 82.5–6 is clearly reminiscent of Ar. Ra. 720–1, where the coin metaphor is
+               a reference to Athenian politicians (cf. Dover 1993, 281–2). Therefore, the two
+               entries going back to the PS have more in common than it may look at first sight.
+            </p>
          </div>
       </body>
 

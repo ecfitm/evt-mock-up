@@ -20,12 +20,14 @@
                <!-- traduzioni-->
                <witness xml:id="praep_A_transl" corresp="#PraepA_traduzione">Praeparatio A
                   translation</witness>
-               <witness xml:id="preap_B_transl" corresp="#PraepB_traduzione">Praeparatio B translation</witness>
-               <witness xml:id="preap_C_transl" corresp="#PraepC_traduzione">Praeparatio C translation</witness>
+               <witness xml:id="praep_B_transl" corresp="#PraepB_traduzione">Praeparatio B translation</witness>
+               <witness xml:id="praep_C_transl" corresp="#PraepC_traduzione">Praeparatio C translation</witness>
                
                <!-- commento-->
                   
-                  <witness xml:id="Praparatio_commentary" corresp="#Praeparatio_commento">Praeparatio commentary</witness>
+                  <witness xml:id="Praeparatio_commentary_α_3" corresp="#Praeparatio_commento_α_3">Praeparatio commentary α 3</witness>
+                  <witness xml:id="Praeparatio_commentary_α_23" corresp="#Praeparatio_commento_α_23">Praeparatio commentary α 23</witness>
+                  <witness xml:id="Praeparatio_commentary_α_123" corresp="#Praeparatio_commento_α_123">Praeparatio commentary α 123</witness>
              
          
 
@@ -74,9 +76,19 @@
          </text>
 
          <!-- commento-->
- <text xml:id="Praeparatio_commento">
-            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praep_commentary.xml"
+ <text xml:id="Praeparatio_commento_α_3">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praep_commentary_3.xml"
                xpointer="praep_1_comm"/>
+         </text>
+
+         <text xml:id="Praeparatio_commento_α_23">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praep_commentary_23.xml"
+               xpointer="praep_2_comm"/>
+         </text>
+
+         <text xml:id="Praeparatio_commento_α_123">
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="praep_commentary_123.xml"
+               xpointer="praep_3_comm"/>
          </text>
 
    

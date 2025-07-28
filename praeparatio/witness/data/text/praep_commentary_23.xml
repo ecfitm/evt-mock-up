@@ -19,22 +19,13 @@
    </teiHeader>
    <text>
 
-     
-      <body xml:id="praepC">
-         <div type="section" xml:id="praep_C_ch1" n="1">
-            <head>Praeparatio C</head>
-            
-            
-            <div type="entry" n="a_3.C">
-               <head>α 123.C</head>
-               <p xml:id="praep_C_par1">
-                  <seg xml:id="praep_C_seg1">
-                     <term ref="#journee"/>Σʹʹʹ (Σᵇ α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· ὁ μὴ
-                     κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος. οὕτως Φρύνιχος.</seg>
-               </p>
-            </div>
-            
-            
+      <body xml:id="praep_2_comm">
+         <div type="section" xml:id="praep_ch2_comm" n="2">
+            <head>Commentary on α 23</head>
+
+            <p>This entry was extracted from α 22.A with a view to highlight the noteworthy
+               expression employed by Eupolis and quoted within the previous entry. </p>
+        
          </div>
       </body>
 

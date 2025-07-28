@@ -24,46 +24,41 @@
             <head>Praeparatio C</head>
 
 
-            <div type="fragment" n="a_3.C">
+            <div type="entry" n="a_3.C">
                <head>α 123.C</head>
+               <p><ref type="parallelPassage">Loci paralleli<bibl><title>Cf.
+                           etiam</title></bibl><bibl><title>Poll. 3.86</title><note>Poll. 3.86:
+                           ἀργύριον δόκιμον, […], κίβδηλον, κεκιβδηλευμένον (‘Money [can be
+                           described as] authentic, […], false,
+                           counterfeit’).</note></bibl><bibl><title>Hsch. κ 2054</title><note>Hsch.
+                           κ 2054: κεκιβδηλευμένοι· ἄτιμοι. ἀχρεῖοι. *⸤ἀδόκιμοι, νόθοι (Agn)
+                           (‘κεκιβδηλευμένοι (‘Adulterated’): Dishonroured, useless, counterfeit,
+                           spurious (Ar. Ra. 721)’).</note></bibl><bibl><title>Cyr. (vg) κεκ
+                           9</title><note>Cyr. (vg) κεκ 9: κεκιβδήλευται, διαβέβληται, κατέγνωσται,
+                           ἀποδεδοκίμασται (‘κεκιβδήλευται (‘[He/she/it] has been counterfeit’):
+                           [He/she/it] has been calumniated, condemned, rejected as
+                        unfit’).</note></bibl><bibl><title>Σ κ 254 (= Σʹʹ [Phot. κ 527, Su. κ
+                           1237])</title><note>Σ κ 254 (= Σʹʹ [Phot. κ 527, Su. κ 1237]):
+                           κεκιβδήλευται· διαβέβληται, κατέγνωσται, ἀποδεδοκίμασται, νενόθευται
+                           (quod de Borries 1911, 174 ut PS fr. *322 editionis suae edidit)
+                           (‘κεκιβδήλευται (‘[He/she/it] has been counterfeited’): [He/she/it] has
+                           been calumniated, condemned, rejected as unfit, condemned as
+                           adulterated’).</note></bibl><bibl><title>sch. Ar. Ra.
+                           721</title><note>sch. Ar. Ra. 721: οὐ κεκιβδηλευμένοις VE: ἀντὶ τοῦ οὐ
+                           κακούργοις οὐδὲ κατακεκαπηλευμένοις, ἀλλὰ καθαροῖς. τοῖς παλαιοῖς,
+                           δηλονότι, ἀνδράσιν. VE(Ald) (‘οὐ κεκιβδηλευμένοις (‘[That are] not
+                           counterfeit’): Meaning not the mischievous ones nor those used in petty
+                           commerce, but to the pure ones. Clearly, [it means] the people of a past
+                           generation’).</note></bibl></ref></p>
                <p xml:id="praep_C_par1">
                   <seg xml:id="praep_C_seg1">
-                     <term ref="#journee"/>
-                     <ref type="parallelPassage"><bibl><title>Cf. etiam</title></bibl></ref>
-                     <ref type="parallelPassage"><bibl><title>Poll. 3.86</title><note>Poll. 3.86:
-                              ἀργύριον δόκιμον, […], κίβδηλον, κεκιβδηλευμένον (‘Money [can be
-                              described as] authentic, […], false,
-                        counterfeit’).</note></bibl></ref>
-                     <ref type="parallelPassage"><bibl><title>Hsch. κ 2054</title><note>Hsch. κ
-                              2054: κεκιβδηλευμένοι· ἄτιμοι. ἀχρεῖοι. *⸤ἀδόκιμοι, νόθοι (Agn)
-                              (‘κεκιβδηλευμένοι (‘Adulterated’): Dishonroured, useless, counterfeit,
-                              spurious (Ar. Ra. 721)’).</note></bibl></ref>
-                     <ref type="parallelPassage"><bibl><title>Cyr. (vg) κεκ 9</title><note>Cyr. (vg)
-                              κεκ 9: κεκιβδήλευται, διαβέβληται, κατέγνωσται, ἀποδεδοκίμασται
-                              (‘κεκιβδήλευται (‘[He/she/it] has been counterfeit’): [He/she/it] has
-                              been calumniated, condemned, rejected as unfit’).</note></bibl></ref>
-                     <ref type="parallelPassage"><bibl><title>Σ κ 254 (= Σʹʹ [Phot. κ 527, Su. κ
-                              1237])</title><note>Σ κ 254 (= Σʹʹ [Phot. κ 527, Su. κ 1237]):
-                              κεκιβδήλευται· διαβέβληται, κατέγνωσται, ἀποδεδοκίμασται, νενόθευται
-                              (quod de Borries 1911, 174 ut PS fr. *322 editionis suae edidit)
-                              (‘κεκιβδήλευται (‘[He/she/it] has been counterfeited’): [He/she/it]
-                              has been calumniated, condemned, rejected as unfit, condemned as
-                              adulterated’).</note></bibl></ref>
-                     <ref type="parallelPassage"><bibl><title>sch. Ar. Ra. 721</title><note>sch. Ar.
-                              Ra. 721: οὐ κεκιβδηλευμένοις VE: ἀντὶ τοῦ οὐ κακούργοις οὐδὲ
-                              κατακεκαπηλευμένοις, ἀλλὰ καθαροῖς. τοῖς παλαιοῖς, δηλονότι, ἀνδράσιν.
-                              VE(Ald) (‘οὐ κεκιβδηλευμένοις (‘[That are] not counterfeit’): Meaning
-                              not the mischievous ones nor those used in petty commerce, but to the
-                              pure ones. Clearly, [it means] the people of a past
-                              generation’).</note></bibl></ref> Σʹʹʹ (Σᵇ α 796, Phot. α 749):
-                     ἀκίβδηλος ἀνήρ· <app>
+                     <term ref="#journee"/> Σʹʹʹ (Σᵇ α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· <app
+                        type="critical">
                         <lem>ὁ μὴ κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος</lem>
-                        <rdg>ὁ πολλοῦ ἄξιος καὶ δόκιμος Phot. b</rdg>
-                        <note>ὁ μὴ κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος Σᵇ, Phot. z</note>
-                     </app>. <app>
+                        <rdg>Σᵇ, Phot. z: ὁ πολλοῦ ἄξιος καὶ δόκιμος Phot. b</rdg></app>. <app type="critical">
                         <lem>οὕτως</lem>
-                        <rdg> οὕτω Phot. b</rdg>
-                        <note>οὕτως Σᵇ, Phot. z</note>
+                        <rdg>Σᵇ, Phot. z: οὕτω Phot. b</rdg>
+
                      </app> Φρύνιχος.</seg>
                </p>
             </div>

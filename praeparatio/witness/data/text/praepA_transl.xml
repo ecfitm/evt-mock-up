@@ -21,10 +21,10 @@
 
       <body xml:id="praepA_transl">
          <div type="section" xml:id="praep_A_ch1_transl" n="1">
-            <head>Preaparatio A - translation</head>
+            <head>Praeparatio A - translation</head>
 
 
-            <div type="fragment" n="a_3.A">
+            <div type="entry" n="a_3.A">
                <head>α 3.A</head>
                <p>
                   <seg>
@@ -34,7 +34,7 @@
                </p>
             </div>
             
-            <div type="fragment" n="a_23.A">
+            <div type="entry" n="a_23.A">
                <head>α 23.A</head>
                <p>
                   <seg xml:id="praep_A_seg2">
