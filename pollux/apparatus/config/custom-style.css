@@ -104,6 +104,6 @@ span.quote sup.iconbis-evt_quote-right {
     display: none !important;
 }
 
-.analogue-header {
+evt-analogues-apparatus-entry, evt-sources-apparatus-entry, evt-critical-apparatus-entry {
   font-family: serif !important;
 }
