@@ -15,7 +15,7 @@
                <!-- testi-->
              
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
-               <witness xml:id="versio_brevis" corresp="#Versio_Brevis">Versio Brevis</witness>
+               <witness xml:id="versio_brevis" corresp="#Versio_brevis">Versio brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
 
             
@@ -62,7 +62,7 @@
          </text>
 
 
-         <text xml:id="Versio_Brevis">
+         <text xml:id="Versio_brevis">
             <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="versio_brevis.xml"
                xpointer="Brevis_testo"/>
          </text>

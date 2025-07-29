@@ -15,19 +15,19 @@
                <!-- testi--><witness xml:id="pollux_transl" corresp="#Pollux_traduzione">Pollux
                   translation</witness>
                <witness xml:id="pollux" corresp="#Pollux">Pollux</witness>
-               <witness xml:id="versio_brevis" corresp="#Pollux_Brevis">Versio Brevis</witness>
+               <witness xml:id="versio_brevis" corresp="#Pollux_Brevis">Versio brevis</witness>
                <witness xml:id="excerpta" corresp="#Excerpta">Excerpta</witness>
 
                <!-- traduzioni-->
                
-                  <witness xml:id="versio_brevis_transl" corresp="#Brevis_traduzione">Versio Brevis translation</witness>
+                  <witness xml:id="versio_brevis_transl" corresp="#Brevis_traduzione">Versio brevis translation</witness>
                <witness xml:id="excerpta_transl" corresp="#Excerpta_traduzione">Excerpta translation</witness>
                
                <!-- commenti-->
                   
-                  <witness xml:id="pollux_comment" corresp="#Pollux_commento">Pollux comment</witness>
+                  <witness xml:id="pollux_commentary" corresp="#Pollux_commento">Pollux commentary</witness>
              
-                  <witness xml:id="excerpta_comment" corresp="#Excerpta_commento">Excerpta comment</witness>
+                  <witness xml:id="excerpta_commentary" corresp="#Excerpta_commento">Excerpta commentary</witness>
 
                
 

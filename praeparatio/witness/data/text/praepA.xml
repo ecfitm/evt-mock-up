@@ -17,37 +17,45 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text xml:id="praepA">
-      <group>
-         <text>
-            <body>
-               <head>Praeparatio A</head>
-               <div type="entry" n="a_3.A">
-                  <head>α 3.A</head>
-                  <p xml:id="praep_A_par1">
-                     <seg xml:id="praep_A_seg1">
-                        <term ref="#journee"/>αὐτόκερας· σημαίνει τὸ αὐτοκέραστον καὶ συμμέτρως
-                        κεκρασμένον ἤγουν πεφυκὸς κεράννυσθαι. εἴρηται δὲ καὶ ἐπιρρηματικῶς.</seg>
-                  </p>
-               </div>
+   <text>
 
-            </body>
 
-         </text>
-         <text>
-            <body>
+      <body xml:id="praepA">
+         <head>Praeparatio A</head>
 
-               <head>Praeparatio A</head>
+         <div type="entry" n="a_3.A" xml:id="praep_A_ch1">
+            <head>α 3.A</head>
+            <p xml:id="praep_A_par1">
+               <seg xml:id="praep_A_seg1">
+                  <term ref="#journee"/>αὐτόκερας· σημαίνει τὸ αὐτοκέραστον καὶ συμμέτρως
+                  κεκρασμένον ἤγουν πεφυκὸς κεράννυσθαι. εἴρηται δὲ καὶ ἐπιρρηματικῶς.</seg>
+            </p>
+
+         </div>
+
+         <div type="entry" xml:id="praep_A_ch2" n="a_23.A">
 
 
 
-               <div type="entry" xml:id="praeo_A_ch2" n="a_23.A">
-                  <head>α 23.A</head>
-                  <p xml:id="praep_A_par2" n="2"><seg xml:id="praep_A_seg2"><term ref="#journee"/>ἀπιστίαν βλέπει· Εὔπολις· σημαίνει τὸν
-                     ἀπιστότατον. </seg></p>
-               </div>
-            </body>
-         </text>
-      </group>
+
+            <head>α 23.A</head>
+            <p xml:id="praep_A_par2" n="2"><seg xml:id="praep_A_seg2"><term ref="#journee"/>ἀπιστίαν
+                  βλέπει· Εὔπολις· σημαίνει τὸν ἀπιστότατον. </seg></p>
+         </div>
+         
+         <div type="entry" xml:id="praep_A_ch3" n="a_123.A">
+            <head>α 123.A</head>
+            <p xml:id="praep_A_par3" n="3"><seg xml:id="praep_A_seg3"><term ref="#journee"/> ----- </seg></p>
+         </div>
+      </body>
+
+
+
+
+
+
+
+
+
    </text>
 </TEI>

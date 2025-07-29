@@ -28,12 +28,12 @@
                <head>α 3.A <ref target="https://gallica.bnf.fr/ark:/12148/btv1b525026958/f106.item">Coisl. f.
                      47r</ref></head>
                <p><ref type="parallelPassage">Loci paralleli<bibl><title>PS
-                              29.13–5</title><note>PS 29.13–5: αὐτόκρατον: ἐπὶ τοῦ ἀμιγοῦς καὶ
+                              29.13–5</title><note>αὐτόκρατον: ἐπὶ τοῦ ἀμιγοῦς καὶ
                               ἀκεράστου καὶ ἀκράτου οἴνου. παρὰ γὰρ τοῖς πολλοῖς καθωμίληται τὸ
                               αὐτόκρατον ἐπὶ τοῦ συμμέτρως κεκραμένου (‘αὐτόκρατον: It is used for
                               wine that is ἀμιγής (‘unmixed’), ἀκέραστος (‘self-mixed’), and ἄκρατος
                               (‘unmixed’). αὐτόκρατον is used among laymen for wine that is
-                              conveniently mixed’).</note></bibl><bibl><title>Poll. 6.23–4</title><note>Poll.
+                              conveniently mixed’).</note><note>Poll.
                               6.23–4: καὶ ἄκρατος οἶνος, ἀμιγὴς πρὸς ὕδωρ, ἄμικτος. ἄκρατον σπάσαι.
                               κεκραμένος, εὔκρατος εὔκρας εὐκραής, εὐκέραστος. αὐτόκρας ὁ μηδεμιᾶς
                               προσθήκης δεόμενος, καὶ αὐτοκέρας καὶ αὐτόκρατον (‘Wine ἄκρατος
@@ -41,7 +41,7 @@
                               ἄκρατον (‘unmixed wine’). κεκραμένος (‘mixed’), εὔκρατος εὔκρας
                               εὐκραής, εὐκέραστος (‘well-mixed’). αὐτόκρας (‘self-mixed’). Wine that
                               does not require anything to be added, also αὐτοκέρας (‘self-mixed’)
-                              and αὐτόκρατον (‘self-mixed’)’). </note></bibl></ref></p>
+                              and αὐτόκρατον (‘self-mixed’)’).</note></bibl><bibl><title>Poll. 6.23–4</title></bibl></ref></p>
                <p xml:id="praep_A_par1">
                   <seg xml:id="praep_A_seg1">
                      <term ref="#journee"/>
@@ -73,7 +73,7 @@
                <head>α 23.A <ref target="https://gallica.bnf.fr/ark:/12148/btv1b525026958/f107.item">Coisl. f.
                      47v</ref></head>
                <p><app type="source"><lem><quote>Loci classici<bibl><title>Eup. fr. 332 (cf. Olson 2014, 30–2).</title></bibl></quote></lem></app></p>
-               <p><ref type="parallelPassage">Loci paralleli<bibl><title>PS α 22</title><note>PS α 22: ἄνθρωπος
+               <p><ref type="parallelPassage">Loci paralleli<bibl><title>PS α 22</title><note>ἄνθρωπος
                            ἀποφράς· ἀποφράδες ἡμέραι, καθ’ ἃς ἀπηγόρευτό τι πράττειν. σημαίνει οὖν
                            τὸν οἷον ἀπαίσιον καὶ ἔξεδρον καὶ ἐπάρατον ἄνθρωπον. ‘συνέτυχεν ἐξιόντι
                            μοι ἄνθρωπος ἀποφρὰς καὶ βλέπων ἀπιστίαν’ (‘ἄνθρωπος ἀποφράς: the

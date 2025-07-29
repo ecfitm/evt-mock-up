@@ -21,21 +21,31 @@
 
      
       <body xml:id="praepC">
-         <div type="section" xml:id="praep_C_ch1" n="1">
+         
             <head>Praeparatio C</head>
             
-            
-            <div type="entry" n="a_3.C">
+         <div type="entry" xml:id="praep_C_ch1" n="a_3.C">
+            <head>α 3.C</head>
+            <p xml:id="praep_C_par1" n="1"> ----- </p>
+         </div>
+         
+         <div type="entry" xml:id="praep_C_ch2" n="a_23.C">
+            <head>α 23.C</head>
+            <p xml:id="praep_C_par2" n="2"> ----- </p>
+         </div>
+         
+         
+            <div type="entry" xml:id="praep_C_ch3" n="a_123.C">
                <head>α 123.C</head>
-               <p xml:id="praep_C_par1">
-                  <seg xml:id="praep_C_seg1">
-                     <term ref="#journee"/>Σʹʹʹ (Σᵇ α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· ὁ μὴ
-                     κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος. οὕτως Φρύνιχος.</seg>
+               <p xml:id="praep_C_par3">
+                  
+                     Σʹʹʹ (Σᵇ α 796, Phot. α 749): ἀκίβδηλος ἀνήρ· ὁ μὴ
+                     κίβδηλος ἀλλὰ δόκιμος καὶ πολλοῦ ἄξιος. οὕτως Φρύνιχος.
                </p>
             </div>
             
             
-         </div>
+         
       </body>
 
    </text>
